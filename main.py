@@ -2,7 +2,7 @@ import API
 import webScraping
 import extractFromPdfs
 import createJSON
-import FTP_uploading
+#import FTP_uploading
 
 def main():
     print("Running API script...")
@@ -16,9 +16,13 @@ def main():
 
     print("Running Create JSON script...")
     createJSON.run()
-    
-    print("Running FTP_uploading script...")
-    FTP_uploading.run()
+
+# Not using the upload script anymore since github actions will do it for me so i do not leak passwords and such    
+    # print("Running FTP_uploading script...")
+    # FTP_uploading.run()
+
+
     
 if __name__ == '__main__':
     main()
+    

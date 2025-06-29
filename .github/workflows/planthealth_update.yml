@@ -1,0 +1,39 @@
+name: Weekly PlantHealth Sync
+
+on:
+  schedule:
+    - cron: '0 16 * * 6'  # Every Saturday at 18:00 UTC+2
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run PlantHealth pipeline
+        run: python main.py
+
+      - name: Upload processed file to FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASS }}
+          local-dir: ./  # adjust if the JSON is in a subfolder
+          server-dir: /public_html/
+          exclude: |
+            **/.git*
+            **/.github*
+            **/Development*
