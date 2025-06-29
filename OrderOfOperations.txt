@@ -1,0 +1,30 @@
+Order of operations for uploading:
+
+1. Running the API script which:
+    1.1 Downloads the json file with all labels from mattilsynet
+    1.2 Saves it in a file in the directory
+
+2. Running the webscraping script:
+    2.1 Extracts all unique registration numbers and saves in a list
+    2.2 Creates a directory to save the downloaded labels
+    2.3 Loops through each registration number, appends it to the base URL and downloads all the PDFs with information
+    in the directory
+    
+3. Extract from PDFs:
+    3.1 Loops through each PDF
+    3.2 Extracts ALL text from the PDF if possible
+    3.3 Normally allowed crops are mentioned after section "BRUKSOMRÅDE" or other mentioned options.
+    Extracts the first sentance after this section until full stop.
+    3.4 Uses the same approach for section "VIRKEMÅTE" or similar to identify diseases it fights
+    3.5 Uses RegEx to extract crops and diseases from these sentences based on a list of allowed crops / diseases (crops_diseases.py)
+    3.6 Saves all the extracted information to a txt file for analysis (extracted_sentences.txt)
+
+4. Update the JSON file:
+    4.1 Loops over all entries in the txt file and extracts crops again
+    4.2 Saves them in the relevant JSON structure ready to be inserted into the JSON
+    4.3 Uploads the sections into the JSON file and saves this
+
+5. Uploading to the web server
+    5.1 Connects to the host site
+    5.2 Finds the relevant directory and tries to upload
+    5.3 Gives a response if upload is successfull / unsuccessfull

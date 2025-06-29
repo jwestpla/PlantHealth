@@ -1,0 +1,3046 @@
+File: 2014.7.18.pdf
+First Sentence: DP-klebemiddel kan brukes sammen med visse ugras- og 
+vekstregulerende preparater i jord- og hagebruksvekster der dette er 
+angitt på etiketten.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['', 'ugras']
+
+File: 2017.28.pdf
+First Sentence: Flurostar 200 er godkjent til bruk mot ugras i høst-og vårkorn, grasgjennlegg med eller uten korn som dekkvekst, vårkorn med fangvekst av gras, 
+fôrmais, eng, beite, grasfrøeng samt gras i grøntanlegg.
+Crops: ['eng', 'beite', 'korn', 'fôrmais', 'grasfrøeng', 'Vårkorn', 'gras', '']
+Diseases paragraph: Meget god virkning mot:
+Frøugras: 	
+Klengemaure, vassarve, åkerminneblom, då, vindeslirekne, tungras, haremat, pengeurt, rødtvetann, smånesle.
+Rotugras:	
+Høymole og andre syrearter, løvetann, soleier, stornesle.
+En viss effekt på:
+Rotugras:	
+Geitrams, sneller, vikkearter
+Lauvkratt:	
+Bringebær, bjørk, osp, or, selje, m. flere.
+Diseases: ['klengemaure', 'vassarve', 'vindeslirekne', 'Høymole', 'løvetann', 'soleier', 'stornesle', 'Geitrams', 'sneller', 'vikkearter', 'bjørk', 'osp', 'or', 'selje', 'rotugras', 'frøugras', '', 'ugras']
+
+File: 2022.2.pdf
+First Sentence: Til beising mot soppsykdommer på frø av grønnsaker som dyrkes i veksthus eller forkul-
+tiveres i veksthus og senere plantes ut på friland, beising av setteløk og blomsterløk samt til bekjempelse av 
+algesopper (Pythium og Phytopthora) på prydplanter i veksthus.
+Crops: ['prydplanter', 'setteløk', 'blomsterløk', 'grønnsaker', '']
+Diseases paragraph: Not found
+Diseases: ['', 'Pythium', 'soppsykdommer']
+
+File: 2019.4.pdf
+First Sentence: Mot soppsykdommer på høst- og vårformer av hvete, bygg, rug og rughvete.
+Crops: ['rug', 'rughvete', 'bygg', 'hvete', '']
+Diseases paragraph: ELATUS™ Era er et bredspektret systemisk soppmiddel som virker mot alle typer sopp. 
+Det beskytter svært godt mot alle typer rust, og bladflekksopper som grå øyeflekk, 
+byggbrunflekk, spragleflekk, hvetebladprikk og hveteaksprikk.
+Diseases: ['rust', 'grå øyeflekk', 'byggbrunflekk', 'spragleflekk', 'hvetebladprikk', 'hveteaksprikk', '', 'soppsykdommer']
+
+File: 2012.25.23.pdf
+First Sentence: Alar 85 SG er tillatt brukt til vekstregulering av prydplanter og sommerblomster i veksthus.
+Crops: ['prydplanter', 'sommerblomster', '']
+Diseases paragraph: Alar 85 SG hemmer strekningsveksten og gir 
+plantene en mer kompakt vokseform.
+Diseases: ['', 'vekstregulering']
+
+File: 2016.40.pdf
+First Sentence: Vårkorn med og uten gjenlegg til fôr: sprøyt på oppspirt ugras om våren/ forsommer, når kornet har 
+BBCH 13-45.
+Crops: ['Vårkorn', '']
+Diseases paragraph: Not found
+Diseases: ['', 'ugras']
+
+File: 2023.10.pdf
+First Sentence: og virkeområde 
+Kinvara kan bruks mot ett- og flerårig ugras i høst- og vårkorn med eller uten grasgjenlegg.
+Crops: ['Vårkorn', '']
+Diseases paragraph: Not found
+Diseases: ['', 'ugras']
+
+File: 2016.21.17.pdf
+First Sentence: Goltix® er tillatt brukt i jordbær og rødbeter.
+Crops: ['jordbær', 'rødbeter', '']
+Diseases paragraph: Ett- og tofrøblada frøugras.
+Goltix® har avhengig av sprøytetidspunkt, sprøyteforhold og dose god 
+virkning mot ettårige ugrasarter som balderbrå, gjetertaske, haremat, 
+hønsegras, jordrøyk, linbendel, meldestokk, åkerminneblom, pengeurt, 
+rødtvetann, smånesle, tunbalderbrå, tunrapp, vassarv, veronika, åkergråurt og 
+åkerstemorsblom. Virkningen er svak mot klengemaure og vindeslirekne, samt 
+tungras etter at disse har spirt.
+Diseases: ['Gjetertaske', 'balderbrå', 'jordrøyk', 'klengemaure', 'meldestokk', 'tunrapp', 'vindeslirekne', 'åkergråurt', 'frøugras', '']
+
+File: 2024.25.pdf
+First Sentence: Påfør Zorvec Entecta med 25 ml/daa.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2024.24.pdf
+First Sentence: Mizuki brukes til kontroll av ugras i potet og til nedsviing av potet.
+Crops: ['potet', '']
+Diseases paragraph: Ugras:	
+Det er effekt på oppspirte, tofrøbladete ugrasarter.
+Diseases: ['ugras', '']
+
+File: 2008.43.19.pdf
+First Sentence: Eple, pære, plomme, søt- og surkirsebær, hageblåbær, rips, solbær, 
+stikkelsbær på friland samt bjørnebær og bringebær på friland og i plasttunell.
+Crops: ['eple', 'pære', 'stikkelsbær', 'bringebær', 'rips', 'solbær', 'hageblåbær', 'plomme', 'surkirsebær', 'bjørnebær', 'søt- og surkirsebær', '']
+Diseases paragraph: NORDOX 75 WG virker mot rothalsråte, honningsopp, frukttrekreft, epleskurv, 
+pæreskurv, plommepung, grå monilia, haglskuddsyke (pga. sopp og bakterie-
+kreft), bærbuskbladfall, bærbuskbladﬂekksopp, greindød, ﬂekkskurv, 
+skuddsyke, greinbrann og andre stengelsykdommer, nålefallssopper, 
+buksbomkreft, gråskimmel, furuas knopp- og greintørke, ﬁltsopp og rustsopper.
+Diseases: ['bærbuskbladfall', 'bærbuskbladﬂekksopp', 'buksbomkreft', 'epleskurv', 'frukttrekreft', 'furuas knopp- og greintørke', 'grå monilia', 'gråskimmel', 'greinbrann', 'greindød', 'haglskuddsyke', 'honningsopp', 'monilia', 'nålefallssopper', 'plommepung', 'rothalsråte', 'rustsopper', 'skuddsyke', 'stengelsykdommer', '']
+
+File: 2019.11.22.pdf
+First Sentence: For vekstregulering av gress på greener, tees, fairways og semi-rough på golfbaner, og i andre 
+idrettsanlegg.
+Crops: ['']
+Diseases paragraph: PRIMO Maxx® II for gressvekstregulering reduserer klippefrekvensen og mengden gressavklipp 
+ved å redusere veksten av gresset.
+Diseases: ['', 'vekstregulering']
+
+File: 2023.11.pdf
+First Sentence: ELASTO G5 skal kun brukes som spredemiddel sammen med skadedyrmidler og 
+vekstreguleringsmidler  for prydplanter i veksthus/ plasttunnel.
+Crops: ['prydplanter', '']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2016.41.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2014.11.21.pdf
+First Sentence: Mot frøugras i vårhvete, bygg og havre 
+med eller uten fangvekster av gras, i gjenlegg av gras 
+og rødkløver til fôr (med og uten korn som dekkvekst), i 
+høsthvete, rug og rughvete om våren og i varig beite.
+Crops: ['rug', 'høsthvete', 'rughvete', 'vårhvete', 'bygg', 'havre', 'beite', 'korn', 'gras', 'rødkløver', '']
+Diseases paragraph: VIRKNING OVERFOR UGRAS I KORN
+Harmony® Plus 50 SX® ugrasmiddel virker mot de fleste frøugras og enkelte 
+tofrøblada rotugras i korn.
+Meget god virkning mot : Balderbrå, då, hønsegras, linbendel, meldestokk, 
+oljevekster, stivdylle, tunbalderbrå, vassarve, vindeslirekne, åkerminneblom og 
+korsblomstra ugras.
+Tilfredsstillende virkning mot : Haremat, rødtvetann, tranehals og tungras.
+Ikke tilfredsstillende virkning mot : Jordrøyk, klengemaure og 
+åkerstemorsblom.
+VIRKNING OVERFOR UGRAS I VARIG BEITE
+Meget god virkning mot : Balderbrå, engsoleie, gjetertaske, krypsoleie og 
+vassarve.
+Tilfredsstillende virkning mot : Hundekjeks, høymole og løvetann.
+Diseases: ['Gjetertaske', 'balderbrå', 'jordrøyk', 'korsblomstra ugras', 'klengemaure', 'meldestokk', 'vassarve', 'vindeslirekne', 'Høymole', 'løvetann', 'ugras', 'rotugras', 'frøugras', '']
+
+File: 2019.5.pdf
+First Sentence: Mot tofrøbladet ugras i høst- og vårhvete, rug, 
+rughvete, bygg, høstbygg og havre.
+Crops: ['rug', 'høstbygg', 'rughvete', 'vårhvete', 'bygg', 'havre', 'høst- og vårhvete', '']
+Diseases paragraph: Tripali® ugrasmiddel er et bredtvirkende herbicid til bekjempelse av de fleste 2-frøblada 
+ugrasarter i vårkorn og høstkorn. 
+Ugrasvirkning 
+Når bruksrettledningen følges, har Tripali® ugrasmiddel meget god virkning (>85% effekt) på 
+de fleste ugrasarter i korn. Nedenstående skjema viser virkningen av Tripali® ugrasmiddel på 
+flere ugrasarter. 
+Høstkorn 
+Ugrasarter
+Latinsk navn
+Dose 3,5 g/daa + 50 ml 
+DP-klebemiddel/100 l vann
+Bakkeveronika
+Veronica arvensis
+***
+Balderbrå
+Tripleurospermum mariti-
+mum subsp. inodorum
+***
+Gjetertaske
+Capsella bursa-pastoris
+****
+Klengemaure
+Galium aparine
+***
+Meldestokk
+Chenopodium album
+****
+Oljevekster
+Brassica napus
+***
+Orientveronika
+Veronica persica
+****
+Pengeurt
+Thlaspi arvense
+****
+Rødtvetann/Tvetann-arter
+Lamium species
+***
+Tungras
+Polygonum aviculare
+**
+Vassarve
+Stellaria media
+****
+Vindeslirekne
+Fallopia convolvulus
+****
+Åkerminneblom
+Myosotis arvensis
+**
+Åkersennep
+Sinapis arvensis
+****
+Åkerstemorsblom
+Viola arvensis
+***
+Vårkorn* 
+Ugrasarter
+Latinsk navn
+Dose 3,5 g/daa + 50 ml 
+DP-klebemiddel/100 l vann
+Bakkeveronika
+Veronica arvensis
+**
+Balderbrå
+Tripleurospermum mariti-
+mum subsp. inodorum
+****
+Klengemaure
+Galium aparine
+***
+Meldestokk
+Chenopodium album
+***
+Orientveronika
+Veronica persica
+**
+Pengeurt
+Thlaspi arvense
+****
+Rødtvetann/Tvetann-arter
+Lamium species
+****
+Tungras
+Polygonum aviculare
+*
+Vassarve
+Stellaria media
+****
+Vindeslirekne
+Fallopia convolvulus
+***
+Åkersennep
+Sinapis arvensis
+****
+Åkerstemorsblom
+Viola arvensis
+***
+Åkervortemelk
+Euphorbia helioscopia
+**
+* Max 2,5g Tripali® ugrasmiddel /daa + DP-klebemiddel i havre 
+Ugrasvirkning er klassifisert i henhold til: 
+Meget god virkning (****) 95-100% 
+God virkning (***) 85-94% 
+Moderat virkning (**) 70-84% 
+Mindre god virkning (*) 50-69% 
+190/185 x 95 - 11009133_22046599_LBL_ML-F_250G_TRIPALI_NO_1_BOOKLET_5pages_LEFT.indd   2
+190/185 x 95 - 11009133_22046599_LBL_ML-F_250G_TRIPALI_NO_1_BOOKLET_5pages_LEFT.indd   2
+28/02/2023   13:52
+28/02/2023   13:52
+11009133_22046599_NORWAY - BOOKLET PAGE 3
+BLACK
+FILL IN
+DIMENSIONS (WXH)
+Country
+NORWAY
+Single label
+Product SKU
+11009133
+Base for Booklet
+Product SKU Description
+TRIPALI_250G_NO
+Booklet
+190/185 x 95 mm
+Label SKU
+22046599
+Number of pages (Booklet)
+5 pages
+Label SKU Description
+LBL_ML-F_250G_TRIPALI_NO_1
+Carton label
+Label SKU (earlier version(s))
+Preprinted Material
+Diseases: ['Gjetertaske', 'balderbrå', 'klengemaure', 'meldestokk', 'vassarve', 'vindeslirekne', 'Bakkeveronika', 'Orientveronika', 'Åkersennep', 'Åkervortemelk', '', 'ugras']
+
+File: 2016.6.22.pdf
+First Sentence: Moddus® Start er et vekstregulerende middel tillatt brukt for å fremme avling og redusere legde i høst- og 
+vårhvete, høst- og vårbygg, havre, rug og rughvete, med eller uten gjenlegg, samt grasfrøeng.
+Crops: ['rug', 'rughvete', 'vårhvete', 'vårbygg', 'havre', 'grasfrøeng', 'høst- og vårbygg', '']
+Diseases paragraph: Not found
+Diseases: ['', 'legde']
+
+File: 2022.3.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2019.10.pdf
+First Sentence: Mot frøugras i rug, høsthvete, høstbygg, rughvete, vårhvete og vårbygg.
+Crops: ['rug', 'høsthvete', 'høstbygg', 'rughvete', 'vårhvete', 'vårbygg', '']
+Diseases paragraph: Not found
+Diseases: ['', 'frøugras']
+
+File: 2008.9.25.pdf
+First Sentence: Mot meldugg i eple, pære, solbær, rips, stikkelsbær, jordbær, agurk og prydplanter på friland.
+Crops: ['prydplanter', 'eple', 'pære', 'stikkelsbær', 'rips', 'solbær', 'jordbær', 'agurk', '']
+Diseases paragraph: stiden er avhengig av vekst 
+og infeksjonstrykk.
+Diseases: ['']
+
+File: 2016.34.21.pdf
+First Sentence: Trimmer® 50 SG er tillatt brukt i vår- og høsthvete, bygg, havre, 
+rug og rughvete, gjenlegg av gras og rødkløver til fôr (med og 
+uten korn som dekkvekst) og korn med fangvekster av gras.
+Crops: ['rug', 'høsthvete', 'rughvete', 'bygg', 'havre', 'korn', 'gras', 'rødkløver', '']
+Diseases paragraph: Trimmer® 50 SG er et bredtvirkende ugrasmiddel mot 
+tofrøbladet ugras.
+VIRKNING overfor UGRAS I KORN
+Trimmer® 50 SG har god virkning mot de fleste frøugras 
+og enkelte tofrøblada rotugras i korn. Sen sprøyting, inntil 
+begynnende blomsterknoppdannelse, gir fortsatt god virkning 
+på arter nevnt under meget god virkning.
+Meget god virkning mot:
+Balderbrå, då, hønsegras, linbendel, meldestokk, oljevekster, 
+rødtvetann, stivdylle, tunbalderbrå, vassarve, åkerminneblom 
+og korsblomstra ugras.
+Tilfredsstillende virkning mot:
+Haremat og vindelslirekne.
+Ikke tilfredsstillende virkning mot:
+Jordrøyk, klengemaure, tungras og åkerstemorsblom.
+VIRKNING OVERFOR UGRAS I BEITE
+Meget god virkning mot:
+Balderbrå, engsoleie, gjetertaske, krypsoleie, løvetann og 
+vassarve.
+Tilfredsstillende virkning mot:
+Hundekjeks.
+Mindre god virkning mot:
+Engsyre, høymole, småsyre og stornesle (brennesle).
+Diseases: ['Gjetertaske', 'balderbrå', 'jordrøyk', 'korsblomstra ugras', 'klengemaure', 'meldestokk', 'vassarve', 'Høymole', 'løvetann', 'stornesle', 'engsyre', 'småsyre', 'ugras', 'rotugras', 'frøugras', '']
+
+File: 2017.8.pdf
+First Sentence: Primus er tillatt brukt mot tofrøbladet ugras i korn med eller uten grasgjenlegg til fôr eller frø.
+Crops: ['korn', '']
+Diseases paragraph: Primus har meget god virkning mot:
+Klengemaure, vassarve (resistens mot ALS er registrert i Norge), balderbrå-arter (resistens mot ALS er 
+registrert i Norge), gjetertaske, åkerreddik, åkersennep, kornblom, oljevekster, vindelslirekne, haremat 
+og svartsøtvier.
+God virkning mot: 
+Då arter (resistens mot ALS er registrert i Norge), hønsegras, åkersvineblom, minneblom (forglemmegei) 
+og løvetann.
+UGRASVIRKNING
+Diseases: ['Gjetertaske', 'balderbrå', 'kornblom', 'klengemaure', 'vassarve', 'løvetann', 'Åkersennep', 'åkersvineblom', '', 'ugras']
+
+File: 2016.38.21.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2014.43.17.pdf
+First Sentence: Medallion® TL er tillatt brukt mot sopp på gras i grøntanlegg 
+som omfatter plen og grasbakke i f.
+Crops: ['gras', '']
+Diseases paragraph: Medallion® TL virker mot microdochium flekk og rosa snømugg 
+forårsaket av Microdochium nivale. Medallion® TL virker også 
+noe mot brunflekk (Drechslera spp.) og antraknose (Colleto-
+trichum graminicola).
+Diseases: ['microdochium flekk', 'rosa snømugg', 'brunflekk', 'antraknose', 'snømugg', '']
+
+File: 2020.3.pdf
+First Sentence: Bekjempelse av ugress, mose og 
+alger på gangstier (grus- og hellebelagte stier) og 
+åpne areal i hager med og uten treaktige 
+prydvekster.
+Crops: ['']
+Diseases paragraph: Mot ett- og ferårige ugress, mose 
+og alger.
+Diseases: ['ugress', '']
+
+File: 2024.27.pdf
+First Sentence: CARNADINE® er et insektsmiddel mot  insekter i potet, vår- og høstoljevekster,  vår -og høstkorn, fôrbete, sukkerbete, rødbeter, erter, bønner, 
+åkerbønne, gulrot,  hodekål, brokkoli, blomkål, rosenkål, spisskål og savoykål.
+Crops: ['åkerbønne', 'potet', 'erter', 'bønner', 'hodekål', 'brokkoli', 'gulrot', 'rosenkål', 'blomkål', 'rødbeter', '']
+Diseases paragraph: CARNADINE® virker på en rekke insekter.
+Diseases: ['insekter', '']
+
+File: 2020.2.pdf
+First Sentence: Cymbal 45 er tillatt brukt mot tørråte i potet.
+Crops: ['potet', '']
+Diseases paragraph: Not found
+Diseases: ['', 'tørråte']
+
+File: 2017.9.pdf
+First Sentence: Lentagran WP er tillatt brukt i asparges, brokkoli, blomkål, rosenkål, hodekål, bladkål, knutekål, fôrkål, fôrmais, sukkermais, løk, sjalottløk, hvitløk, vårløk, purre, kløvergjenlegg 
+og gran i skogplanteskole.
+Crops: ['asparges', 'hodekål', 'brokkoli', 'rosenkål', 'blomkål', 'sjalottløk', 'vårløk', 'fôrmais', 'bladkål', 'knutekål', 'fôrkål', 'sukkermais', 'løk', 'hvitløk', 'purre', 'kløvergjenlegg', 'gran', '']
+Diseases paragraph: Lentagran WP er et kontaktvirkende bladherbicid.
+Diseases: ['bladherbicid', '']
+
+File: 2017.32.22.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2017.16.pdf
+First Sentence: Ferramol Mot Snegler er et
+agn/lokkegra nulat for bekjempelse av snegler 
+i grønnsaker, bær og prydplanter utendørs så
+vel som i veksthus og i bed.
+Crops: ['prydplanter', 'grønnsaker', 'bær', '']
+Diseases paragraph: Få timer etter at sneglene 
+har spist Ferramol Mot Snegler, mister de 
+matlysten, og derved forhindres videre 
+beskadigelse av de planter man vil beskytte.
+Diseases: ['']
+
+File: 2012.29.19.pdf
+First Sentence: Mot mjøldogg i korn (høsthvete, vårhvete, høstbygg, vårbygg, havre, rug og triticale) og grasfrø 
+(rødsvingel, raigras og strandsvingel).
+Crops: ['rug', 'høsthvete', 'høstbygg', 'vårhvete', 'vårbygg', 'havre', 'korn', '']
+Diseases paragraph: Talius bekjemper mjøldogg (Blumeria graminis). Talius har videre en viss virkning mot kronrust.
+Talius kan brukes på alle sorter av høsthvete, vårhvete, høstbygg, vårbygg, havre, rug, triticale og 
+grasfrøeng.
+Diseases: ['mjøldogg', '', 'strandsvingel', 'raigras']
+
+File: 2021.13.pdf
+First Sentence: Tombo kan brukes i alle sorter av høst- og vårhvete, høstrug og rughvete for 
+bekjempelse av frøugras.
+Crops: ['rughvete', 'vårhvete', 'høst- og vårhvete', 'høstrug', '']
+Diseases paragraph: Not found
+Diseases: ['', 'frøugras']
+
+File: 2019.17.pdf
+First Sentence: Til vekstregulering av prydplanter i veksthus
+Virkemåte
+KOMPAKT 5C brukes i prydplanter i veksthus.
+Crops: ['prydplanter', '']
+Diseases paragraph: en av KOMPAKT 5C kommer 1- 3 dager etter behandling, og den varer som 
+regel i 5-10 dager.
+Diseases: ['', 'vekstregulering']
+
+File: 2011.27.14.pdf
+First Sentence: Må kun anvendes til bekjempelse av; gulrust, brunrust, hveteaksprikk, hvetebladprikk, 
+hvetebrunflekk og snømugg i hvete.
+Crops: ['hvete', '']
+Diseases paragraph: av Comet
+® Pro overfor soppsykdommer i hvete, bygg, rug, havre og rughvete.
+Diseases: ['soppsykdommer', '', 'hvetebladprikk', 'hveteaksprikk', 'brunrust', 'gulrust', 'snømugg']
+
+File: 2017.12.pdf
+First Sentence: »NEU1181M« kan brukes i alle kulturer der det er
+problemer med snegler.
+Crops: ['']
+Diseases paragraph: »NEU1181M« er et spesialmiddel til bekjempelse av alle
+typer snegler,som f.eks brunskogsnegl.
+Diseases: ['']
+
+File: 2017.14.22.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2012.16.14.pdf
+First Sentence: Cerone er tillatt brukt til vekstregulering i bygg, vår-
+hvete, høsthvete og rug med og uten gjenlegg og til 
+frukttynning i eple og pære.
+Crops: ['eple', 'pære', 'rug', 'høsthvete', 'bygg', 'hvete', '']
+Diseases paragraph: Cerone forkorter og styrker strået på kornet, og redu-
+serer dermed faren for legde og aks- og stråknekk. I 
+frukt reduseres lengden på nye skudd slik at grenene 
+ikke blir like utsatt for brekkasje, og medvirker dessu-
+ten til en bedre form på kronen på frukttrærne.
+Diseases: ['legde', 'stråknekk', '', 'vekstregulering']
+
+File: 2018.87.24.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2015.17.pdf
+First Sentence: Ranman Top er tillatt brukt mot tørråte i potet.
+Crops: ['potet', '']
+Diseases paragraph: Not found
+Diseases: ['', 'tørråte']
+
+File: 2016.36.21.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2020.6.pdf
+First Sentence: Attribut SG 70 er tillatt brukt mot ugras i høst- og vårhvete.
+Crops: ['vårhvete', 'høst- og vårhvete', '']
+Diseases paragraph: Attribut SG 70 er et ugrasmiddel med god virkning mot ulike faks-arter, hønsehirse, kveke, 
+åkerkvein, knereverumpe samt noen tofrøblada ugrasarter. Tabellen under viser effekt 
+av Attribut SG 70 alene. Mot flere av artene blir det bedre effekt ved å blande med Hussar 
+OD. 
+KLIMAETS PÅVIRKNING 
+Værforhold
+Attribut SG 70 virker både gjennom opptak via blader og røtter. Det anbefales derfor at 
+man behandler når det er god jordfuktighet som øker opptaket gjennom røttene. 
+Ugras og kulturplanter må være i god vekst ved behandling med Attribut, men produk-
+tet er ikke følsomt for temperatur ved behandling. Se ellers blandingspartner.
+Kultur 
+Tidspunkt 
+(BBCH)
+Dose g 
+per dekar
+Ugrasart
+Vårhvete  
+13-32  
+6  
+Svært god effekt: floghavre, gjeterta-
+ske, åkersennep, pengeurt, balderbrå, 
+tungras    
+God effekt: kveke     
+Moderat effekt: hønsehirse*
+Høsthvete  
+20-29  
+5,3  
+God effekt: kveke, åkerfaks, då, tun-
+gras, åkerkvein**, knereverumpe      
+Moderat effekt: balderbrå
+Høsthvete  
+30-32  
+6  
+Svært god effekt: rugfaks                 
+God effekt: kveke, knereverumpe, 
+åkerkvein**, raps, åkerfaks, gjeterta-
+ske, då, tungras, åkersennep  
+Moderat effekt: klengemaure, balder-
+brå
+*   Ved bekjempelse av hønsehirse, MÅ behandling skje senest ved 2-bladstadiet av hønse-
+ hirse for å få en god virkning av Attribut SG 70.
+**  For å få denne gode effekten på åkerkvein, MÅ Attribut SG 70 blandes med Hussar OD.
+Rangering av mottakelighet hos ugras         
+(SANCO/10055/2013)
+Effekt
+Svært god effekt  
+95.0-100.0%
+God effekt  
+85.0-94.9%
+Moderat effekt  
+70.0-84.9%
+Diseases: ['balderbrå', 'floghavre', 'hønsehirse', 'kveke', 'klengemaure', 'knereverumpe', 'raps', 'Åkersennep', 'faks-arter', 'åkerkvein', 'rugfaks', 'ugras', '']
+
+File: 2024.23.pdf
+First Sentence: 400 ml/da ved et sprøytevolum på - 16-30 l/da (normert arealdose (NAD) 400 
+mL per dekar).
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2018.80.pdf
+First Sentence: PG26N kan brukes sammen med visse ugras- og vekstregulerende preparater i jord- og hagebruksvekster der dette er angitt på etiketten.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['', 'ugras']
+
+File: 2023.17.pdf
+First Sentence: Mot tofrøbladet ugress i sukkerbeter, fôrbeter, rødbeter og gran i skogplanteskoler
+Informasjon
+Registreringsnummer: 2023.
+Crops: ['rødbeter', 'sukkerbeter', 'fôrbeter', 'gran', '']
+Diseases paragraph: Mot tofrøblada frøugras.
+Goltix® Gold har, avhengig av sprøytetidspunkt, sprøyteforhold og dose, virkning mot ettårige ugrasarter som balder-
+brå, gjetertaske, haremat, hønsegras, jordrøyk, linbendel, meldestokk, åkerminneblom, pengeurt, rødtvetann, små-
+nesle, tunbalderbrå, vassarve, veronika-arter, åkergråurt og åkerstemorsblom. Virkningen er svak mot klengemaure, 
+vindelslirekne, samt tungras etter at disse har spirt.
+Diseases: ['Gjetertaske', 'jordrøyk', 'klengemaure', 'meldestokk', 'vassarve', 'åkergråurt', 'frøugras', '', 'ugress']
+
+File: 2024.22.pdf
+First Sentence: Påfør Zorvec Enicade med 15 ml/daa.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2018.42.pdf
+First Sentence: VIRKEOMRÅDE
+DEKNINGSGRAD
+Rekker til 10 m².
+Crops: ['']
+Diseases paragraph: DEKNINGSGRAD
+Rekker til 10 m².
+Bruksrettledning
+Diseases: ['']
+
+File: 2018.31.22.pdf
+First Sentence: Propulse SE 250 er tillatt brukt i høst- og vårhvete, rug, rughvete, 
+vinter- og vårbygg, havre, raps, rybs og potet.
+Crops: ['rug', 'rughvete', 'vårhvete', 'vårbygg', 'potet', 'havre', 'høst- og vårhvete', 'rybs', '']
+Diseases paragraph: Propulse SE 250 er et soppmiddel med systemisk virkning mot 
+meldugg, grå øyeflekk, byggbrunflekk, spragleflekk, havrebrun-
+flekk, stråknekker, hveteaksprikk (Stagonospora nodorum, tid-
+ligere Septoria nodorum), hvetebladprikk (Septoria tritici), hve-
+tebrunflekk (DTR), brunrust, gulrust, dvergrust, kronrust, svartrust 
+og aksfusariose i korn. Storknolla råtesopp, gråskimmel og skul-
+pesopp i oljevekster, og mot tørrflekksjuke (Alternaria solani og 
+Alternaria alternata) i potet.
+Diseases: ['Alternaria', 'gråskimmel', 'storknolla råtesopp', 'grå øyeflekk', 'byggbrunflekk', 'spragleflekk', 'hvetebladprikk', 'hveteaksprikk', 'stråknekker', 'brunrust', 'dvergrust', 'gulrust', '', 'raps']
+
+File: 2019.16.pdf
+First Sentence: Atlantis OD er tillatt brukt mot ugras i høsthvete, rug og rughvete.
+Crops: ['rug', 'høsthvete', 'rughvete', '']
+Diseases paragraph: Atlantis OD virker mot markrapp, knereverumpe og tunrapp i høstkorn om høsten samt mot framspirt balderbrå, oljevekster, ste-
+morsblomst og vassarve. Om våren bekjempes de samme artene, og i tillegg virker Atlantis OD også på enkelte andre frøugras (se 
+nedenfor). Atlantis OD har dessuten en dempende effekt på kveke, da vil høyeste dosering og en tidlig behandling gi best virkning. 
+Atlantis OD har meget god effekt mot raigras, markrapp, tunrapp, balderbrå, då- arter, linbendel, oljevekster og vassarve.
+  
+Effekten er god mot knereverumpe og meldestokk.
+Atlantis OD har noe effekt på rødtvetann, vindeslirekne, åkerstemorsblom, åkerminneblom m.fl. 
+Atlantis OD har dempende effekt mot kveke hvor virkningen er best ved høye doser.
+Diseases: ['balderbrå', 'kveke', 'knereverumpe', 'meldestokk', 'tunrapp', 'vassarve', 'vindeslirekne', 'markrapp', 'frøugras', 'raigras', '', 'ugras']
+
+File: 2019.14.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2017.39.pdf
+First Sentence: Mot soppsykdommer på høst- og vårhvete, bygg, rug og rughvete, potet, kepaløk, 
+sjalottløk, vårløk, purre, gulrot, persillerot, kruspersille (friland), bladpersille, pastinakk, 
+stangselleri, knollselleri, blomkål, brokkoli, hodekål, rosenkål, grønnkål, kinakål, ruccola, 
+kålrot, nepe, salat på friland, rødbete, reddik, sukkerbete, fôrbete, ert til konserves, 
+sukkererter, erter til modning, bønner, frilandsagurk, raps, rybs samt jordbær og 
+bringebær på friland, plasttunnel og i veksthus.
+Crops: ['bringebær', 'rug', 'rughvete', 'vårhvete', 'jordbær', 'salat', 'kepaløk', 'potet', 'erter', 'bønner', 'kålrot', 'hodekål', 'brokkoli', 'gulrot', 'pastinakk', 'knollselleri', 'rødbete', 'bygg', 'rosenkål', 'blomkål', 'nepe', 'sjalottløk', 'vårløk', 'ruccola', 'kruspersille', 'bladpersille', 'høst- og vårhvete', 'purre', 'rybs', 'kinakål', 'frilandsagurk', 'stangselleri', 'persillerot', '']
+Diseases paragraph: en av 
+produktet er forøvrig ikke særlig temperatur avhengig.
+Diseases: ['', 'raps', 'soppsykdommer']
+
+File: 2021.11.24.pdf
+First Sentence: Dose
+Avstands-
+krav til 
+overflate-
+vann
+Andre  
+risikoreduserende 
+tiltak
+Raps, rybs
+20 g/daa
+3 m
+Må ikke brukes på 
+kalkrik jord.
+Crops: ['rybs', '']
+Diseases paragraph: en er ikke avhengig av temperaturforhold, og bare meget lite av luftfuktighe-
+ten.
+Diseases: ['', 'raps']
+
+File: 2019.28.pdf
+First Sentence: Bekjempelse av ugras, mose og alger på 
+gangstier (grus- og hellebelagte stier) og 
+åpne areal i hager med og uten treaktige 
+prydvekster.
+Crops: ['']
+Diseases paragraph: Mot ett - og flerårige ugras, mose og alger.
+Diseases: ['ugras', '']
+
+File: 2017.11.pdf
+First Sentence: Sluxx HP kan brukes i alle kulturer der det er proble-
+mer med snegler.
+Crops: ['']
+Diseases paragraph: Sluxx HP er et spesialmiddel til bekjempelse av alle
+typer snegler,som f.eks brunskogsnegl.
+Diseases: ['']
+
+File: 2012.21.pdf
+First Sentence: Prydplanter i grøntanlegg, veksthus og planteskoler.
+Crops: ['prydplanter', '']
+Diseases paragraph: Proff skadeinsekter er et kontaktmiddel med god effekt mot:
+Bladlus, mellus, skjoldlus/ullus, trips, bladveps-, bladbille- og sommer-
+fugllarver, samt veksthusspinnmidd i prydplanter.
+Diseases: ['bladlus', 'trips', 'mellus', 'veksthusspinnmidd', 'skadeinsekter', '']
+
+File: 2022.7.pdf
+First Sentence: BotaniGard WP er tillatt brukt mot mellus i jordbær, squash, agurk, melon, 
+aubergine, tomat, paprika, blomsterdyrking, roser, løvtrær og stauder i 
+veksthus.
+Crops: ['jordbær', 'tomat', 'aubergine', 'agurk', 'paprika', 'squash', '']
+Diseases paragraph: BotaniGard WP virker mot alle stadier unntatt egg av veksthusmellus 
+(Trialeurodes vaporariorum) og bomullsmellus (Bemisia tabaci).
+Diseases: ['', 'mellus']
+
+File: 2007.19.19.pdf
+First Sentence: Oljevekster, potet, kålrot, fôrraps, fôrmargkål, fôrnepe, hodekål, rosenkål, brokkoli, 
+blomkål, oljelin, ert til frømodning, konservesert, bønne, knollselleri, gulrot, kepaløk, 
+purre, bete (alle arter), rotpersille, jordbær på friland, bringebær, solbær, rips, 
+stikkelsbær og rabarbra på friland, frøeng af rødsvingel og rødkløver.
+Crops: ['stikkelsbær', 'bringebær', 'rips', 'solbær', 'jordbær', 'bønne', 'frøeng', 'kepaløk', 'potet', 'fôrmargkål', 'fôrraps', 'kålrot', 'hodekål', 'brokkoli', 'gulrot', 'knollselleri', 'rosenkål', 'blomkål', 'rotpersille', 'rødkløver', 'purre', '']
+Diseases paragraph: en mot tunrapp er ikke tilfredsstillende.
+Diseases: ['tunrapp', '']
+
+File: 2015.14.pdf
+First Sentence: Ranman Top er tillatt brukt mot tørråte i potet.
+Crops: ['potet', '']
+Diseases paragraph: Not found
+Diseases: ['', 'tørråte']
+
+File: 2019.1.pdf
+First Sentence: Mixin® er tillatt brukt mot ugras i hvete, rug, havre, bygg, rughvete, grasfrøeng, beite og eng, se 
+tabell nedenfor:
+Kultur
+Behandling
+Dosering
+max mL/daa
+Sprøytetid
+(BBCH)
+Behandlingsfrist,
+(dager)
+Max.
+Crops: ['rug', 'rughvete', 'bygg', 'havre', 'eng', 'beite', 'grasfrøeng', 'hvete', '']
+Diseases paragraph: Mixin® har meget god virkning mot klengemaure, balderbrå-arter, vassarve (også SU-resistent), 
+gjetertaske, spillfrø av oljevekster, åkergråurt, tranehals, åkerreddik, åkersennep, haremat, 
+svartsøtvier, hønsegras og vindeslirekne. 
+På frøbladstadiet er virkningen også meget god mot åkerminneblom, åkersvineblom og løvetann. 
+Mixin® har også virkning mot veronika, åkerstemorsblom, og meldestokk, hvis ugraset er på 
+frøbladstadiet.
+I tillegg i etablert grasmark: Mixin har meget god virkning på høymole. God effekt på marikåpe og 
+soleie-arter. En viss kortvarig effekt på løvetann og hundekjeks.
+Diseases: ['Gjetertaske', 'balderbrå', 'klengemaure', 'meldestokk', 'vassarve', 'vindeslirekne', 'åkergråurt', 'Høymole', 'løvetann', 'Åkersennep', 'åkersvineblom', '', 'ugras']
+
+File: 2020.5.pdf
+First Sentence: og virkeområde
+Proxanil er tillatt brukt mot tørråte i potet.
+Crops: ['potet', '']
+Diseases paragraph: Not found
+Diseases: ['', 'tørråte']
+
+File: 2018.54.pdf
+First Sentence: Mot skadedyr i korn, oljevekster, erter til modning, konserves erter, bønner, 
+poteter, blomkål, brokkoli, hodedkål og rosenkål.
+Crops: ['erter', 'bønner', 'brokkoli', 'rosenkål', 'blomkål', 'korn', '']
+Diseases paragraph: Mot følgende innsektgrupper og arter: Gallmygg (bl.a. salgallmygg, 
+gul hvetegallmygg, rød hvetegallmygg, skulpegallmygg), bladlus (bl.a. 
+kornbladlus, havrebladlus, kålbladlus, betebladlus, ertebladlus, liten 
+potetbladlus, potetbladlus, grønnflekket veksthusbladlus, ferskenbladlus), 
+trips (Thrips angusticeps, Kakothrips pisivorus, Limothrips denticornis), 
+rapsglansbiller, snutebiller (bl.a. skulpesnutebille, ertesnutebille).
+Diseases: ['bladlus', 'havrebladlus', 'kornbladlus', 'trips', '', 'skadedyr']
+
+File: 2024.20.pdf
+First Sentence: Risikoreduserende tiltak
+Aubergine, Pepino
+(Drivhus)  
+(Solanum melongena  
+- Solanum muricatum)
+Tre utfoldede blader på 
+hovedstengelen – ferdig 
+modnet: frukten har fått 
+typisk farge ved ferdig 
+modning (BBCH13–89)
+Meldugg  
+(Leveillula taurica)
+2 l/ha rad/hekk, 1–5 
+anvendelser med et 
+sprayintervall på 7 dager
+-
+Agurk
+(Drivhus)  
+(Cucumis sativus)
+Tre utfoldede blader på 
+hovedstengelen – 3.
+Crops: ['aubergine', 'agurk', '']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2023.15.pdf
+First Sentence: Alle spiselige og ikke-spiselige avlinger
+Dosering:  3,8 g/m2 eller 178 pellets
+P101 Hvis det er nødvendig med legehjelp, ha produktets beholder eller 
+etikett for hånden.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2008.11.14.pdf
+First Sentence: Mot skurv, bitterråte, kjølelagersopp, plommepung ulike bladflekksykdommer i eple, 
+pære, plomme, søt-og surkirsebær, stikkelsbær, rips og prydplanter på friland og i 
+veksthus.
+Crops: ['prydplanter', 'eple', 'pære', 'stikkelsbær', 'rips', 'plomme', 'surkirsebær', '']
+Diseases paragraph: Delan WG virker forebyggende mot skurv og mange bladflekksjukdommer og 
+hemmer spiring av soppsporer.
+Diseases: ['bladflekksjukdommer', 'skurv', '', 'plommepung', 'bitterråte']
+
+File: 2018.82.pdf
+First Sentence: Broadway Star kan brukes i alle sorter av vårhvete for 
+bekjempelse av ugras.
+Crops: ['vårhvete', '']
+Diseases paragraph: Not found
+Diseases: ['', 'ugras']
+
+File: 2024.21.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2013.8.14.pdf
+First Sentence: Bekjempelse av ugras, mose og alger på 
+gang stier (grus- og hellebelagte stier) og 
+åpne areal i hager med og uten treaktige 
+prydvekster.
+Crops: ['']
+Diseases paragraph: Mot ett- og flerårige ugras, mose og alger.
+Diseases: ['ugras', '']
+
+File: 2020.4.pdf
+First Sentence: Bekjempelse av ugress, mose og alger på gangstier (grus- og 
+hellebelagte stier) og åpne areal i hager med og uten treaktige 
+prydvekster.
+Crops: ['']
+Diseases paragraph: Mot ett - og ferårige ugress, mose og alger.
+Diseases: ['ugress', '']
+
+File: 2023.6.25.pdf
+First Sentence: Skal brukes mot sykdommer i raps, mais, poteter, eple, pære, plomme og kirsebær.
+Crops: ['eple', 'pære', 'plomme', 'kirsebær', '']
+Diseases paragraph: Revyona
+® virker mot soppsjukdommer i raps, mais, poteter, eple, pære, plomme og 
+kirsebær.
+Raps
+Revyona
+® virker mot tørråte (Plenodomus lingam), lys bladflekk (Pyrenopeziza 
+brassicae) som vårbehandling i vinter- og vårraps. I blomstringsstadiene har Revyona 
+virkning på storknolla råtesopp (Sclerotinia sclerotiorum) og skulpesopp (Alternaria sp.).
+Mais
+Revyona
+® har god effekt mot nordlig bladskimmel (Setosphaeria turcica), øyeflekk 
+(Kabatiella zeae), Fusarium-arter og brunrust (Puccinia sorghi) i mais.
+Poteter
+Revyona
+® har meget god effekt mot tørrflekksjuke (Alternaria sp.) i poteter.
+Epler og pærer
+Revyona
+® har god effekt mot eple- og pæreskurv (Venturia inaequalis og Venturia 
+pyrina), meldugg (Podosphaera leucotricha) og Stemphylium sp. i epler og pærer. 
+Revyona
+® har god effekt mot monilia (Monilinia spp.)
+Plommer og kirsebær
+Revyona
+® har god effekt mot monilia (Monilinia spp.).
+Diseases: ['Alternaria', 'Monilinia', 'Sclerotinia', 'monilia', 'raps', 'storknolla råtesopp', 'tørråte', 'bladskimmel', 'soppsjukdommer', 'brunrust', '']
+
+File: 2019.29.pdf
+First Sentence: BRUKSANVISNING
+gjengelig for barn.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2019.15.pdf
+First Sentence: DFF SC 500 er tillatt brukt mot ugras i vårbygg, høstbygg, vårhvete, høsthvete, havre, rug og rughvete.
+Crops: ['rug', 'høsthvete', 'høstbygg', 'rughvete', 'vårhvete', 'vårbygg', 'havre', '']
+Diseases paragraph: Det er KUN tillatt å bruke DFF SC 500 til vårbehandling.
+Virkning angitt under forutsetter høyeste dose med buffersone.
+Vårbehandling – høstkorn
+DFF SC 500 har middels til god effekt mot veronika-arter, åkerstemorsblom og åkerminneblom i høstkorn om 
+våren.
+Vårbehandling – vårkorn
+DFF SC 500 har svært god effekt mot gjetertaske, veronika-arter og åkerstemorsblom i vårkorn. 
+Effekten er middels til god mot balderbrå-arter, raps, åkerminneblom, rødtvetann, vindeslirekne og åkersen-
+nep. 
+Under optimale forhold og smått ugras også middels til god effekt på meldestokk, vassarve, tungras og åker-
+minneblom. Middels effekt på nyspirt tunrapp (maksimalt BBCH 11).
+Ved de lavere dosene (uten buffersone) har DFF 500 SC svært god effekt mot åkerstemorsblom og middels 
+effekt mot vassarve i vårkorn. Effekt på andre arter mulig dersom ugraset er smått og det er god jordfuktighet. 
+EFFEKT PÅ UGRAS- ARTENE
+>95 % 	
+= svært god effekt
+85-95 %	
+= god effekt
+70-84 %	
+= middels effekt
+50-69 %	
+= noe virkning
+  0-49 %	
+= begrenset virkning
+DFF SC 500 virker best ved god jordfuktighet.
+Diseases: ['Gjetertaske', 'balderbrå', 'meldestokk', 'raps', 'tunrapp', 'vassarve', 'vindeslirekne', 'ugras', '']
+
+File: 2017.22.21.pdf
+First Sentence: Mot tofrøbladet ugras i høst- og vårhvete, rug, 
+rughvete, bygg, høstbygg og havre, uten gjenlegg.
+Crops: ['rug', 'høstbygg', 'rughvete', 'vårhvete', 'bygg', 'havre', 'høst- og vårhvete', '']
+Diseases paragraph: Express® Gold SX® ugrasmiddel er et bredtvirkende herbicid til bekjempelse av de 
+fleste 2-frøblada ugrasarter i vårkorn og høstkorn uten gjenlegg.
+Ugrasvirkning
+Når bruksrettledningen følges, har Express® Gold SX® ugrasmiddel meget god virkning 
+(>85% effekt) på de fleste ugrasarter i korn. Nedenstående skjema viser virkningen av full 
+dose Express® Gold SX® ugrasmiddel på flere ugrasarter.
+190/185 x 95 - 11007521_22058297_LBL_ML-F_250G_EXPRESS GOLD SX_NO_3_BOOKLET_8pages_LEFT.indd   2
+190/185 x 95 - 11007521_22058297_LBL_ML-F_250G_EXPRESS GOLD SX_NO_3_BOOKLET_8pages_LEFT.indd   2
+09-02-2023   12:16
+09-02-2023   12:16
+11007521_22058297_NORWAY - BOOKLET PAGE 3
+BLACK
+FILL IN
+DIMENSIONS (WXH)
+Country
+NORWAY
+Single label
+Product SKU
+11007521
+Base for Booklet
+Product SKU Description
+EXPRESS GOLD SX_250G_NO
+Booklet
+190/185 x 95 mm
+Label SKU
+22058297
+Number of pages (Booklet)
+8 pages
+Label SKU Description
+LBL_ML-F_250G_EXPRESS GOLD SX_NO_3
+Carton label
+Label SKU (earlier version(s))
+Preprinted Material
+Høstkorn
+95-100% effekt
+Balderbrå 
+Då
+Gjetertaske 
+Hønsegrasarter
+Gullkrage*
+Haremat*
+Hundepersille
+Kamilleblom
+Kornblom*
+Kornvalmue*
+Linbendel
+Meldestokk
+Oljevekster
+Orientveronika*
+Pengeurt
+Rødtvetann*
+Tunbalderbrå*
+Åkersennep
+Vassarve
+Åkerminneblom
+Åkerveronika*
+85-95% effekt
+Jordrøyk*
+Tranehals*
+Tungras*
+Vindeslirekne*
+<85% effekt
+Bakkeveronika
+Åkertistel** 
+Åkerstemorsblom*
+Burot*
+Vårkorn***
+95-100% effekt
+Balderbrå 
+Då
+Gjetertaske 
+Hønsegrasarter
+Gullkrage*
+Haremat*
+Hundepersille
+Kamilleblom
+Kornblom*
+Kornvalmue*
+Linbendel
+Meldestokk
+Oljevekster
+Orientveronika*
+Pengeurt
+Rødtvetann*
+Tunbalderbrå*
+Åkersennep
+Vassarve
+Åkerminneblom
+Åkerveronika*
+85-95% effekt
+Jordrøyk*
+Tranehals*
+Tungras*
+Vindeslirekne*
+Åkerstemorsblom*
+Burot*
+<85% effekt
+Bakkeveronika
+Åkertistel**
+Ved 2,7 gram Express® Gold SX® ugrasmiddel per daa + DP-klebemiddel
+*	
+til 2 varige blad
+**	
+planter og planter som er 6-8 cm høye
+***	
+Maks 1,8 g Express® Gold SX® ugrasmiddel per daa + DP-klebemiddel i havre
+190/185 x 95 - 11007521_22058297_LBL_ML-F_250G_EXPRESS GOLD SX_NO_3_BOOKLET_8pages_LEFT.indd   3
+190/185 x 95 - 11007521_22058297_LBL_ML-F_250G_EXPRESS GOLD SX_NO_3_BOOKLET_8pages_LEFT.indd   3
+09-02-2023   12:16
+09-02-2023   12:16
+11007521_22058297_NORWAY - BOOKLET PAGE 4
+BLACK
+FILL IN
+DIMENSIONS (WXH)
+Country
+NORWAY
+Single label
+Product SKU
+11007521
+Base for Booklet
+Product SKU Description
+EXPRESS GOLD SX_250G_NO
+Booklet
+190/185 x 95 mm
+Label SKU
+22058297
+Number of pages (Booklet)
+8 pages
+Label SKU Description
+LBL_ML-F_250G_EXPRESS GOLD SX_NO_3
+Carton label
+Label SKU (earlier version(s))
+Preprinted Material
+Diseases: ['Gjetertaske', 'balderbrå', 'jordrøyk', 'kornblom', 'meldestokk', 'vassarve', 'vindeslirekne', 'Bakkeveronika', 'Orientveronika', 'Åkersennep', 'åkertistel', 'gullkrage', 'burot', '', 'ugras']
+
+File: 2019.13.22.pdf
+First Sentence: Moddevo™ er et vekstregulerende middel tillatt brukt for å fremme avling og redusere legde i høst- og 
+vårhvete, høst- og vårbygg, havre, rug og rughvete, med eller uten gjenlegg, samt grasfrøeng.
+Crops: ['rug', 'rughvete', 'vårhvete', 'vårbygg', 'havre', 'grasfrøeng', 'høst- og vårbygg', '']
+Diseases paragraph: Not found
+Diseases: ['', 'legde']
+
+File: 2018.15.20.pdf
+First Sentence: Flytende beisevæske til bekjempelse av jord- 
+og frøoverførte soppsykdommer i bygg, havre, 
+hvete, rug og rughvete.
+Crops: ['rug', 'rughvete', 'bygg', 'havre', 'hvete', '']
+Diseases paragraph: Difend Extra er et bredtvirkende beisemiddel med 
+effekt mot: 
+•	spiringsfusarioser (Fusarium spp., Michrodocium 
+spp./teleomorph: Monographella spp.) 
+•	snømugg (Michrodocium spp./teleomorph: 
+Monographella spp.)
+•	hveteaksprikk (Stagonospora nodorum/
+teleomorph: Parastagonospora modorum syn. 
+Phaeospaeria nodorum) 
+•	stinksot (Tilletia caries)
+•	dvergstinksot (Tilletia controversa)
+•	stråsot (Urocystis occulta)
+•	naken sot (Ustilago nuda, Ustilago avenae, 
+Ustilago tritici)
+•	bipolaris (Bipolaris sorokiniana/teleomorph: 
+Cochliobolus sativus)
+•	stripesjuke (Drechslera graminea/teleomorph: 
+Pyrenophora graminea)
+•	byggbrunflekk (Drechslera teres/teleomorph: 
+Pyrenophora teres)
+•	havrebrunflekk (Drechslera avenae/teleomorph: 
+Pyrenophora avenea)
+Diseases: ['byggbrunflekk', 'hveteaksprikk', 'havrebrunflekk', 'snømugg', '', 'soppsykdommer']
+
+File: 2021.3.pdf
+First Sentence: Polyversum WP er ett biologisk soppmiddel mot sjukdommer i hvete, bygg og raps.
+Crops: ['bygg', 'hvete', '']
+Diseases paragraph: Mot storknolla råtesopp rothalsråte i raps og rybs aksfusrarium i hvete og bygg. Effekten kan variere sterkt.
+Diseases: ['raps', 'rothalsråte', 'storknolla råtesopp', '']
+
+File: 2009.75.25.pdf
+First Sentence: Mot tørråte i potet og tomat i veksthus, bladskimmelsopper i salat og ruccola på friland.
+Crops: ['tomat', 'salat', 'potet', 'ruccola', '']
+Diseases paragraph: Not found
+Diseases: ['', 'tørråte']
+
+File: 2025.12.pdf
+First Sentence: Mot ugras før såing eller planting, samt etter såing, men før fram-spiring i ulike kulturer.
+Crops: ['']
+Diseases paragraph: Roundup Ultra er et ikke-selektivt ugrasmiddel til bruk mot ugras før fram-spiring av en kultur, målrettet behandling i 
+enkelte kulturer samt nedvisning/ brakking etter høsting samt i andre områder hvor slik bruk er tillatt.
+Diseases: ['nedvisning', 'ugras', '']
+
+File: 2022.27.pdf
+First Sentence: en ma félges, slik at man unngär risiko for mennesker og miljg.
+Crops: ['']
+Diseases paragraph: stiden avhenger avfaktorer
+som behandlingstidspunkt, dosering, utviklingsstadium pa kulturen, veksthas-
+tighet, infeksjonstrykk m.
+Diseases: ['']
+
+File: 2013.29.23.pdf
+First Sentence: OG VIRKEOMRÅDE
+I høsthvete, høstbygg, rug og rughvete uten fangvekster om høsten mot grasartene tunrapp og knereverumpe 
+samt tofrøbladete frøugras som vassarve, klengemaure og rødtvetann.
+Crops: ['rug', 'høsthvete', 'høstbygg', 'rughvete', '']
+Diseases paragraph: I høsthvete, høstbygg, rug og rughvete uten fangvekster om høsten mot grasartene tunrapp og knereverumpe 
+samt tofrøbladete frøugras som vassarve, klengemaure og rødtvetann. Boxer® har også noe virkning mot 
+markrapp.
+I potet om våren før spiring mot svartsøtvier, klengemaure og tunrapp.
+I grasfrøeng av raigras, rødsvingel og engrapp om høsten mot tunrapp, knereverumpe, klengemaure og andre 
+tofrøbladet frøugras.
+BEHANDLINGSFRIST
+Må i potet ikke behandles senere enn 6 uker før opptaking.
+Grasfrøenghalmen kan brukes til fôr 30 uker etter sprøyting.
+Diseases: ['klengemaure', 'knereverumpe', 'tunrapp', 'vassarve', 'markrapp', 'frøugras', 'raigras', '']
+
+File: 2025.7.pdf
+First Sentence: Mot soppsykdommer på agurk, squash, melon, vannmelon, salat, tomat, aubergine, paprika og jordbær i veksthus.
+Crops: ['jordbær', 'tomat', 'salat', 'aubergine', 'agurk', 'paprika', 'squash', '']
+Diseases paragraph: en av midlet er først og fremst kjent fra andre vekster, og det kan derfor være forhold, som gjør at produktet ikke fungerer tilfredsstillende i den aktuelle 
+avlingen.
+Diseases: ['', 'soppsykdommer']
+
+File: 2016.14.18.pdf
+First Sentence: Cycocel 750 kan brukes i  havre, vår- og høsthvete, rug og rughvete samt i frøeng av timotei, hundegras, rødsvingel, bladfaks, 
+engrapp og engkvein.
+Crops: ['rug', 'høsthvete', 'rughvete', 'frøeng', 'havre', '']
+Diseases paragraph: Not found
+Diseases: ['', 'timotei', 'hundegras']
+
+File: 2016.23.pdf
+First Sentence: GIBB er tillatt brukt til utsettelse av modning i søtkirsebær.
+Crops: ['søtkirsebær', '']
+Diseases paragraph: Gibb 3 brukes for å få fastere, søtere og større moreller med utsatt 
+moding og bedre holbarhet.
+Diseases: ['']
+
+File: 2013.18.17.pdf
+First Sentence: Bonzi® er tillatt brukt til vekstregulering av prydplanter i veksthus.
+Crops: ['prydplanter', '']
+Diseases paragraph: Not found
+Diseases: ['', 'vekstregulering']
+
+File: 2016.32.21.pdf
+First Sentence: DUPLOSAN
+® Max er tillatt brukt i eng, beite, gras i grøntanlegg, frukthager, korn, i gjenlegg av hvit- 
+alsike- eller rødkløver med eller uten korn som dekkvekst, og i korn med fangvekster.
+Crops: ['frukthager', 'eng', 'beite', 'korn', 'gras', 'rødkløver', '']
+Diseases paragraph: DUPLOSAN
+® Max har god virkning mot meldestokk, dåarter, åkergråurt og alle korsblomstra 
+ugras og noe virkning mot då-arter.
+Diseases: ['meldestokk', 'åkergråurt', 'ugras', '']
+
+File: 2007.130.14.pdf
+First Sentence: Teldor er tillatt brukt i eple, pære, søtkirsebær, surkirsebær, plomme, bringebær, hage-
+blåbær, rips, solbær, stikkelsbær, jordbær på friland og i veksthus, tomat, veksthusagurk, 
+prydplanter på friland og i veksthus samt paprika under oppal.
+Crops: ['prydplanter', 'eple', 'pære', 'stikkelsbær', 'bringebær', 'rips', 'solbær', 'jordbær', 'søtkirsebær', 'tomat', 'plomme', 'surkirsebær', 'blåbær', 'paprika', '']
+Diseases paragraph: Skadegjørere:
+Teldor har meget god virkning mot gråskimmel og grå og gul monilia.
+Nyttefauna:
+Teldor påvirker nyttefauna i liten grad. Laboratorietester viser at Teldor ikke skader polline-
+rende insekter, marihøner, snylteveps mot bladlus (Aphidius spp.) og rovmidd av slekten 
+Typhlodromus.
+Teldor er derfor egnet til bruk i integrerte bekjempelsesprogram.
+Diseases: ['bladlus', 'gråskimmel', 'gul monilia', 'monilia', 'insekter', '']
+
+File: 2016.22.pdf
+First Sentence: Epler og pærer.
+Crops: ['epler', 'pærer', '']
+Diseases paragraph: Vekstregulering.
+Diseases: ['vekstregulering', '']
+
+File: 2022.26.pdf
+First Sentence: Salat, urter og spiselige blomster i veksthus.
+Crops: ['salat', 'urter', 'spiselige blomster', '']
+Diseases paragraph: NeemAzal®-T/S virker på insekter og midd som spiser eller suger på behandlede plantedeler. 
+Det er derfor generelt god virkning på for eksempel bladlus, mellus, bladteger, trips, minérflu-
+er, frittlevende sommerfugllarver og bladvepslarver, hærmygg og spinnmidd. 
+Virkningen er best på unge larve- eller nymfestadier. Visse arter kontrolleres bare delvis, 
+ved at bestanden av insekter og midd reduseres og ikke bekjempes fullstendig. 
+NeemAzal®-T/S har som regel dårlig virkning på skjoldlus, blodlus og kirsebærbladlus.
+Diseases: ['bladlus', 'spinnmidd', 'insekter', 'trips', 'sommerfugllarver', 'mellus', 'midd', '']
+
+File: 2019.31.24.pdf
+First Sentence: Mot ugras i høst- og vårhvete, rug, 
+rughvete, vårbygg og havre om våren
+Informasjon
+Registreringsnummer: 2019.
+Crops: ['rug', 'rughvete', 'vårhvete', 'vårbygg', 'havre', 'høst- og vårhvete', '']
+Diseases paragraph: Not found
+Diseases: ['', 'ugras']
+
+File: 2021.2.pdf
+First Sentence: Bekjempelse av ugress og mose.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['', 'ugress']
+
+File: 2025.11.pdf
+First Sentence: Mot tørråte i potet.
+Crops: ['potet', '']
+Diseases paragraph: SSPEKTRUM
+Evagio® Forte er et kontaktmiddel og har en komponent som beveger seg gjennom bladene
+(translaminært), men det beveger seg ikke systemisk.
+Diseases: ['', 'tørråte']
+
+File: 2018.4.pdf
+First Sentence: Mot gråskimmel i jordbær på friland og mot gråskimmel og storknolla råtesopp 
+i salat i veksthus.
+Crops: ['jordbær', 'salat', '']
+Diseases paragraph: Geoxe® 50 WG har god effekt på gråskimmel og storknolla råtesopp.
+Diseases: ['gråskimmel', 'storknolla råtesopp', '']
+
+File: 2022.24.pdf
+First Sentence: Floramite er tillat brukt i prydplanter i veksthus.
+Crops: ['prydplanter', '']
+Diseases paragraph: Floramite er et selektivt middel til bekjempelse av spinnmidd (Tetranychus 
+urticae). Floramite har virkning mot samtlige bevegelige stadier hos spinnmidd, 
+og en viss virkning på eggene.
+Diseases: ['spinnmidd', '']
+
+File: 2010.30.21.pdf
+First Sentence: Express® 50 SX® ugrasmiddel er tillatt brukt i vår- og høsthvete, bygg, havre, rug og rughvete, gjenlegg 
+av gras og rødkløver til fôr (med og uten korn som dekkvekst) og korn med fangvekster av gras.
+Crops: ['rug', 'høsthvete', 'rughvete', 'bygg', 'havre', 'korn', 'gras', 'rødkløver', '']
+Diseases paragraph: Express® 50 SX® ugrasmiddel er et bredtvirkende ugrasmiddel mot tofrøbladet ugras.
+VIRKNING OVERFOR UGRAS I KORN
+Express® 50 SX® ugrasmiddel har god virkning mot de fleste frøugras og enkelte tofrøblada rotugras i 
+korn. Sen sprøyting, inntil begynnende blomsterknoppdannelse, gir fortsatt god virkning på arter nevnt 
+under meget god virkning.
+Meget god virkning mot:
+Balderbrå, då, hønsegras, linbendel, meldestokk, oljevekster, rødtvetann, stivdylle, tunbalderbrå, 
+vassarve, åkerminneblom og korsblomstra ugras.
+Tilfredsstillende virkning mot:
+Haremat og vindelslirekne.
+Ikke tilfredsstillende virkning mot:
+Jordrøyk, klengemaure, tungras og åkerstemorsblom.
+VIRKNING OVERFOR UGRAS I BEITE
+Meget god virkning mot:
+Balderbrå, engsoleie, gjetertaske, krypsoleie, løvetann og vassarve.
+Tilfredsstillende virkning mot:
+Hundekjeks.
+Mindre god virkning mot:
+Engsyre, høymole, småsyre og stornesle (brennesle).
+Diseases: ['Gjetertaske', 'balderbrå', 'jordrøyk', 'korsblomstra ugras', 'klengemaure', 'meldestokk', 'vassarve', 'Høymole', 'løvetann', 'stornesle', 'engsyre', 'småsyre', 'ugras', 'rotugras', 'frøugras', '']
+
+File: 2025.4.pdf
+First Sentence: R AV MINDRE BETYDNIG (MINOR USES, ARTIKKEL 51)
+LALSTOP G46 WG bruksområder av mindre betydning for kulturene listet nedenfor, er på sluttbrukers egen risiko med hensyn på produktets effekt og mulige 
+skadelige virkninger, eller skader på avlingen behandlingen er rettet mot.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2020.11.22.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2006.24.16.pdf
+First Sentence: Banvel® er tillatt brukt i bygg og vårhvete uten gjenlegg samt i eng og beite.
+Crops: ['vårhvete', 'bygg', 'eng', 'beite', '']
+Diseases paragraph: Banvel® er et systemisk ugrasmiddel og virker best når ugraset er i god vekst.
+Diseases: ['']
+
+File: 2025.5.pdf
+First Sentence: Luna Sensation brukes til å bekjempe soppsykdommer på jordbær og gulrot som dyrkes på friland.
+Crops: ['jordbær', 'gulrot', '']
+Diseases paragraph: Luna Sensation er et soppmiddel mot enkelte sopper i bær og grønnsakskulturer som skal brukes forebyggen-
+de for å få en tilfredsstillende virkning.
+Diseases: ['', 'soppsykdommer']
+
+File: 2009.3.24.pdf
+First Sentence: Delaro SC 325 er tillatt brukt i bygg, havre, høst- og vår-
+hvete, rug, rughvete og gras i grøntanlegg (golfbaner, 
+fotballbaner og andre grasbaner, også plen i parkan-
+legg).
+Crops: ['rug', 'rughvete', 'bygg', 'havre', 'hvete', 'gras', '']
+Diseases paragraph: Delaro SC 325 er et soppmiddel med systemisk virk-
+ning mot stråknekker, mjøldogg, grå øyeﬂ ekk, bygg-
+brunﬂ ekk, spragleﬂ ekk, havreseptoria, havrebrunﬂ ekk, 
+hveteaksprikk  (Stagonospora nodorum), hveteblad-
+prikk (Septoria tritici), brunrust, dvergrust, gulrust, 
+Fusarium- arter som går i akset på korn, snømugg og 
+trådkølle.
+Diseases: ['hveteaksprikk', 'stråknekker', 'mjøldogg', 'havreseptoria', 'brunrust', 'dvergrust', 'gulrust', 'snømugg', 'trådkølle', '']
+
+File: 2018.5.pdf
+First Sentence: Agurk, tomat, salat og krydderurter i veksthus, oppal av grønnsaker i veksthus, 
+jordbær i veksthus, prydplanter i veksthus og innendørsbeplantinger.
+Crops: ['prydplanter', 'jordbær', 'tomat', 'salat', 'agurk', 'grønnsaker', 'krydderurter', '']
+Diseases paragraph: Mot larver, pupper og voksne mellus, f.eks. veksthusmellus (Trialeurodes vapo­
+rariorum), bomullsmellus (Bemisia tabaci), jordmærmellus (Aleyrodes lonicera) og kålmellus (A. 
+proletella).
+Diseases: ['mellus', '']
+
+File: 2014.4.14.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2012.12.17.pdf
+First Sentence: Eple, pære, 
+plomme, søtkirsebær 
+(moreller), surkirsebær, 
+prydplanter i veksthus og 
+utendørs; samt i innendørs beplantninger.
+Crops: ['prydplanter', 'eple', 'pære', 'søtkirsebær', 'plomme', 'surkirsebær', '']
+Diseases paragraph: Bladlus, skjoldlus, ullus, mellus (hvitﬂ y), granlus, trips 
+og sikader.
+Diseases: ['bladlus', 'trips', 'mellus', '']
+
+File: 2007.30.14.pdf
+First Sentence: Kjernefrukt og steinfrukt på friland.
+Crops: ['']
+Diseases paragraph: Thiovit Jet® virker mot meldugg i kjernefrukt, jordbær, korsblomstrede vekster, grønnsaker, blomster, roser og andre 
+prydvekster samt mot skurv på eple og pære. Thiovit Jet® virker ikke mot Fusarium og Gloeosporium.
+Thiovit Jet® gir god virkning mot bladmidd (gallmidd) og skuddtoppmidd. Ved gjentatte sprøytinger hemmer preparatet 
+utviklingen av spinnmidd.
+Diseases: ['bladmidd', 'spinnmidd', 'skurv', '']
+
+File: 2021.1.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2014.8.pdf
+First Sentence: Puma Extra er tillatt brukt mot floghavre, spillkorn av hav-
+re og hirser i bygg, høst- og vårhvete, rug og rughvete.
+Crops: ['rug', 'rughvete', 'vårhvete', 'bygg', 'høst- og vårhvete', '']
+Diseases paragraph: Puma Extra har god virkning mot floghavre, spillkorn av 
+havre, hønsehirse og busthirser. Tidlig behandling gir 
+best effekt mot floghavre.
+Diseases: ['floghavre', 'hønsehirse', 'spillkorn', '', 'hirser']
+
+File: 2012.7.18.pdf
+First Sentence: Avdriftsreduksjon
+0 %
+50 %
+75 %
+90 %
+Jordbær
+20 m
+10 m
+5 m
+3 m
+Prydplanter og 
+frukt
+30 m
+15 m
+8 m *
+3 m *
+* Gjelder ikke ved bruk av tåkesprøyte.
+Crops: ['prydplanter', 'jordbær', 'frukt', '']
+Diseases paragraph: Milbeknock er et selektivt middel til bekjempelse 
+av 
+spinnmidd, 
+dvergmidd 
+(bl.a. 
+skuddtoppmidd, 
+cyclamenmidd), 
+frukttremidd, 
+jordbærmidd 
+og 
+minerfluelarver.
+Milbeknock har virkning mot samtlige stadier fra egg til 
+voksen midd.
+Diseases: ['spinnmidd', 'frukttremidd', 'midd', '']
+
+File: 2018.1.pdf
+First Sentence: Mot Snegler F er et agn/lokkegranulat for 
+bekjempelse av snegler i grønnsaker, bær 
+og prydplanter, utendørs så vel som i 
+veksthus og i bed.
+Crops: ['prydplanter', 'grønnsaker', 'bær', '']
+Diseases paragraph: Få timer etter at sneglene har spist Mot 
+Snegler F, mister de matlysten, og derved 
+forhindres videre beskadigelse av de 
+planter man vil beskytte.
+Diseases: ['']
+
+File: 2025.14.pdf
+First Sentence: OG VIRKEOMRÅDE Madex® Top er et biologisk insektmiddel mot eplevikler (Cydia pomonella) i 
+kjernefrukt.
+Crops: ['']
+Diseases paragraph: Madex® Top er et biologisk insektmiddel mot eplevikler (Cydia pomonella) i 
+kjernefrukt.
+Diseases: ['']
+
+File: 2020.1.22.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2016.25.pdf
+First Sentence: Zypar kan brukes i alle varianter av høst- og vårkorn for bekjempelse av frøugras 
+(hvete, spelthvete, bygg, rug og rughvete).
+Crops: ['rug', 'rughvete', 'bygg', 'hvete', 'Vårkorn', '']
+Diseases paragraph: Zypar tas i hovedsak opp gjennom bladene. Den har bred ugrasvirkning inkudert: 
+Gjetertaske, jordrøyk, klengemaure, meldestokk, storknebbarter, rødtvetann/ 
+tvetannarter, raps, vassarve, kornblom, balderbrå, kamilleblom, vindeslirekne, 
+åkerreddik, kvassdå/ då-arter.
+Diseases: ['Gjetertaske', 'balderbrå', 'jordrøyk', 'kornblom', 'klengemaure', 'meldestokk', 'raps', 'storknebbarter', 'vassarve', 'vindeslirekne', '', 'frøugras']
+
+File: 2019.23.23.pdf
+First Sentence: Dazide Enhance er tillatt brukt til vekstregulering av prydplanter og sommerblomster i veksthus.
+Crops: ['prydplanter', 'sommerblomster', '']
+Diseases paragraph: Dazide Enhance hemmer strekningsveksten og gir plantene en kompakt vekstform.
+Diseases: ['', 'vekstregulering']
+
+File: 2016.19.pdf
+First Sentence: For blomstringsstimulering i frøplantasjer med bartre.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2009.79.22.pdf
+First Sentence: Flytende beisevæske til bekjempelse av frøoverførte 
+soppsykdommer i bygg, havre, høst- og vårhvete, rug og 
+rughvete.
+Crops: ['rug', 'rughvete', 'vårhvete', 'bygg', 'havre', 'høst- og vårhvete', '']
+Diseases paragraph: Redigo FS 100 har god effekt mot hveteaksprikk 
+(Stagonospora nodorum), hvetebladprikk (Septoria tritici), 
+byggbrunflekk, havrebrunflekk, snømugg, Fusarium spp.
+Diseases: ['byggbrunflekk', 'hvetebladprikk', 'hveteaksprikk', 'havrebrunflekk', 'snømugg', '', 'soppsykdommer']
+
+File: 2016.18.pdf
+First Sentence: Mot bladmidd og spinnmidd i bringebær på friland, prydplanter i plante-
+skoler og grøntanlegg.
+Crops: ['prydplanter', 'bringebær', '']
+Diseases paragraph: Danitron 5 SC er et kontaktmiddel med rask og langvarig virkning mot
+alle bevegelige stadier til spinnmidd samt frittlevende bladmidd.
+Diseases: ['bladmidd', 'spinnmidd', '']
+
+File: 2016.24.pdf
+First Sentence: Pixxaro EC kan brukes i alle sorter av høst- og vårkorn for bekjempelse av tofrøblada frøugras (hvete, spelt, bygg, rug og rugvete).
+Crops: ['rug', 'spelt', 'bygg', 'hvete', 'Vårkorn', '']
+Diseases paragraph: Pixxaro EC tas i hovedsak opp gjennom bladene.
+Diseases: ['', 'frøugras']
+
+File: 2025.15.pdf
+First Sentence: Vekstreguleringsmiddel i høst- og vårhvete, høst- og vårbygg, havre, høstrug og høstrughvete med og uten 
+gjenlegg og i grasfrøeng
+Informasjon
+Registreringsnummer: 2025.
+Crops: ['vårhvete', 'vårbygg', 'havre', 'grasfrøeng', 'høst- og vårhvete', 'høst- og vårbygg', 'høstrug', '']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2014.3.24.pdf
+First Sentence: Teppeki er tillatt brukt mot bladlus i vår-og 
+høsthvete, rug, rughvete, spelt, bygg, havre, 
+potet, eple og pære.
+Crops: ['eple', 'pære', 'rug', 'høsthvete', 'rughvete', 'potet', 'spelt', 'bygg', 'havre', '']
+Diseases paragraph: en er ikke temperaturavhengig.
+Diseases: ['', 'bladlus']
+
+File: 2013.13.25.pdf
+First Sentence: Centium® 36 CS er tillatt brukt i potet, gulrot, rotpersille, knollselleri, raps, 
+ryps, kålrot, hodekål, rosenkål og ert.
+Crops: ['potet', 'kålrot', 'hodekål', 'gulrot', 'knollselleri', 'rosenkål', 'rotpersille', '']
+Diseases paragraph: Den tillatte dosering for Centium® 36 CS er lavere enn det som skal til for å 
+få god virkning mot de aktuelle ugrasartene. Derfor skal produktet normalt 
+anvendes i blanding med andre ugrasmidler for å gi tilstrekkelig virkning. 
+Ved optimale virkningsforhold har Centium® 36 CS virkning mot: då, 
+gjetertaske, haremat, klengemaure, orientveronika, smånesle, svartsøtvier og 
+vassarve (også ALS-resistent).
+Mindre sikker virkning mot: hønsegras, tungras, tvetann-arter, meldestokk, 
+pengeurt og åkerminneblom.
+Diseases: ['Gjetertaske', 'klengemaure', 'meldestokk', 'vassarve', 'Orientveronika', '', 'raps']
+
+File: 2009.70.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2008.74.17.pdf
+First Sentence: Diabolo er tillatt brukt til beising av settepoteter.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2018.2.pdf
+First Sentence: Brukes på epler og pærer mot skurv (Venturia inaequalis og Venturia pirina).
+Crops: ['epler', 'pærer', '']
+Diseases paragraph: småte:
+Delan Pro er en kombinasjon av to virksomme stoffer, ditianon og kaliumfosfonat.
+Diseases: ['', 'skurv']
+
+File: 2025.17.pdf
+First Sentence: Beloukha er tillatt brukt til nedvisning i potet.
+Crops: ['potet', '']
+Diseases paragraph: Beloukha kan brukes til nedvisning av potetris før høstning 
+uten risknusing.
+Diseases: ['nedvisning', '']
+
+File: 2025.2.pdf
+First Sentence: Mot ugras før såing eller planting samt etter såing men før spiring i ulike kulturer.
+Crops: ['']
+Diseases paragraph: Roundup Dynamic er et ikke-selektivt ugrasmiddel til bruk mot ugras før fram-spiring av en kultur, målrettet behandling i 
+enkelte kulturer samt nedvisning/ brakking etter høsting samt i andre områder hvor slik bruk er tillatt.
+Diseases: ['nedvisning', 'ugras', '']
+
+File: 2016.33.pdf
+First Sentence: og virkeområde: Klebemiddelet Biowet kan brukes samme med visse ugras- og vekstreguleren-
+demidler i jord- og hagebruksveskter.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['', 'ugras']
+
+File: 2013.20.17.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2025.3.pdf
+First Sentence: pr.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2016.20.24.pdf
+First Sentence: Vekst
+Tidspunkt / utviklingsstadium, BBCH
+a) Maks.
+Crops: ['']
+Diseases paragraph: Medax
+® Max gir kortere strå og reducerer risikoen for lengde.
+Diseases: ['']
+
+File: 2023.5.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2019.21.24.pdf
+First Sentence: Imprid-Skog er tillatt brukt mot gransnutebiller i småplanter 
+av gran og furu før og etter utplanting.
+Crops: ['gran', 'furu', '']
+Diseases paragraph: Imprid-Skog har meget god virkning mot gransnutebiller i 
+gran og furu.
+Diseases: ['']
+
+File: 2014.36.pdf
+First Sentence: Potet, ert (konserves og frømodning), oljerybs, oljeraps, lin (til tek-
+nisk forarbeiding), gulrot, kepaløk, jordbær på friland samt kløverfrøeng.
+Crops: ['jordbær', 'kepaløk', 'oljeraps', 'oljerybs', 'potet', 'lin', 'gulrot', '']
+Diseases paragraph: Select har særlig god virkning mot tunrapp, spillkorn og floghavre, men har i anbefalte doser også 
+virkning mot kveke.
+Diseases: ['floghavre', 'kveke', 'spillkorn', 'tunrapp', '']
+
+File: 2022.12.pdf
+First Sentence: og virkeområde: Mot ugress på gjennomtrengelige overﬂater på stier, innkjørsler, tun og 
+naturlige områder som ikke er ment å ha vegetasjon i hobbyhager.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['', 'ugress']
+
+File: 2006.23.14.pdf
+First Sentence: Basagran SG er tillatt brukt til bekjempelse av ugras i ert til konserves, ert til modning, 
+fôrert, bønne til konsum, åkerbønne til modning og grønnfôr og frøeng av rødkløver og 
+timotei.
+Crops: ['åkerbønne', 'bønne', 'frøeng', 'rødkløver', '']
+Diseases paragraph: en ­begynner å vise seg etter ca 1 uke.
+Diseases: ['', 'ugras', 'timotei']
+
+File: 2007.13.17.pdf
+First Sentence: Renol er tillatt brukt i tankblanding med Atlantis, 
+Conserve, Gratil, Hussar, Hussar OD, Ranman og 
+Select.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2018.13.pdf
+First Sentence: Klare til bruk pellets for beskyttelse av planter og frø 
+mot snegler i hagen, utendørs og i drivhuset.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2015.51.20.pdf
+First Sentence: Luna Privilege er tillatt brukt i eple og pære.
+Crops: ['eple', 'pære', '']
+Diseases paragraph: Luna Privilege har meget god virkning mot mjøldogg, og god sideeffekt mot skurv, 
+grå og gul monilia, kjølelagersopp og bitterråte.
+Diseases: ['gul monilia', 'monilia', 'skurv', 'bitterråte', 'mjøldogg', '']
+
+File: 2014.33.17.pdf
+First Sentence: Potet, ert (konserves og 
+frømodning), oljerybs, oljeraps, 
+lin (til teknisk forarbeiding), gulrot, 
+kepaløk, jordbær på friland samt 
+kløverfrøeng.
+Crops: ['jordbær', 'kepaløk', 'oljeraps', 'oljerybs', 'potet', 'lin', 'gulrot', '']
+Diseases paragraph: Select har særlig god virkning mot tun-
+rapp, spillkorn og floghavre, men har i 
+anbefalte doser også virkning mot kveke.
+Diseases: ['floghavre', 'kveke', 'spillkorn', '']
+
+File: 2009.1.17.pdf
+First Sentence: Fungaflash er tillatt brukt i agurk, tomat
+og prydplanter i veksthus.
+Crops: ['prydplanter', 'tomat', 'agurk', '']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2009.69.14.pdf
+First Sentence: Eple, pære, plomme, søtkirsebær
+(moreller), surkirsebær, prydplanter i
+veksthus og utendørs, samt i innendørs
+beplantninger.
+Crops: ['prydplanter', 'eple', 'pære', 'søtkirsebær', 'plomme', 'surkirsebær', '']
+Diseases paragraph: Bladlus, skjoldlus, ull lus, mellus (hvitfly),
+granlus, trips og sikader.
+Diseases: ['bladlus', 'trips', 'mellus', '']
+
+File: 2007.125.14.pdf
+First Sentence: Aliette WG 80 er tillatt brukt mot algesopper i prydplanter i grøntanlegg, i plan-
+teskoler og i veksthus, mot salatbladskimmel (Bremia) i salat i veksthus, plast-
+tunnel og på friland, mot agurkbladskimmel i frilandsagurk, mot rotstokkråte (P. 
+cactorum) i produksjon av jordbærsmåplanter samt i nyplantinger og etablerte 
+plantinger av jordbær i veksthus, plasttunnel og på friland, samt i tilfeller hvor 
+Bioforsk Plantehelse har påvist rød marg i jordbær eller rød rotråte i bringebær i 
+veksthus, plasttunnel eller på friland.
+Crops: ['prydplanter', 'bringebær', 'jordbær', 'salat', 'frilandsagurk', '']
+Diseases paragraph: Mot algesopper (Phytophthora, Pythium, Peronospora, Bremia, Plasmopara 
+og Pseudoperonospora).
+Diseases: ['Bremia', 'Phytophthora', 'Plasmopara', 'Pseudoperonospora', 'Pythium', '', 'rotstokkråte', 'rød marg', 'rød rotråte', 'salatbladskimmel', 'agurkbladskimmel']
+
+File: 2014.2.pdf
+First Sentence: Gratil WG 75 er tillatt brukt mot ugras i korn med eller uten fang-
+vekster av gras, gjenlegg av gras og rødkløver til fôr (med el-
+ler uten korn som dekkvekst), eng (gras til fôr), beite og gras i 
+grøntanlegg.
+Crops: ['eng', 'beite', 'korn', 'gras', 'rødkløver', '']
+Diseases paragraph: Korn og/ eller gjenlegg
+Gratil WG 75 har meget god effekt mot flere tofrøblada ugrasar-
+ter, men har et relativt smalt virkningsspekter. Dette gjør Gratil 
+WG 75 til en god blandingspartner med andre midler dersom 
+man har en ugrasflora hvor Gratil WG 75 har god effekt. Effekten 
+er avhengig av behandlingstidspunkt og dosering. 
+Gratil WG 75 har meget god effekt mot klengemaure, gjeter-
+taske, pengeurt, oljevekster, åkergull og åkersennep.
+Effekten er god mot balderbrå, då, ettårig dylle, haremat, mel-
+destokk, vindeslirekne og åkerminneblom.
+Gratil WG 75 har dårlig effekt mot gullkrage, hønsegras, jord-
+røyk, linbendel, rødtvetann og åkerstemorsblom. 
+Eng og beite
+Gratil WG 75 virker mot høymole, soleie og noen andre tofrø-
+blada ugrasarter samt mot einstape. Ønskes et bredere virke-
+område bør en tankblande med et MCPA- preparat.
+Gratil WG 75 er skånsom overfor grasarter unntatt engsvingel 
+som ofte har fått veksthemming i eng og noe utgang i gjenlegg. 
+Gratil WG 75 er forholdsvis skånsom overfor rødkløver. Kløver-
+plantene stagnerer noe, men vokser som regel normalt igjen et-
+ter noen uker.
+Diseases: ['balderbrå', 'grasarter', 'klengemaure', 'vindeslirekne', 'Høymole', 'Åkersennep', 'gullkrage', 'engsvingel', '', 'ugras']
+
+File: 2013.27.pdf
+First Sentence: MaisTer er tillatt brukt mot ugras i fôrmais (ensilasjemais, kolbemais og kjernemais), juletrær og 
+planteskoler.
+Crops: ['fôrmais', '']
+Diseases paragraph: MaisTer har virkning på et bredt spekter av tofrøblada ugrasarter samt vanskelig bekjempbare 
+grasugras inklusiv kveke. Se behandlingsskjema.
+Diseases: ['kveke', 'grasugras', '', 'ugras']
+
+File: 2013.19.pdf
+First Sentence: Fenix er tillatt brukt i poteter, gulrot, erter, løk, dill og 
+kruspersille/ bladpersille.
+Crops: ['erter', 'gulrot', 'kruspersille', 'bladpersille', 'løk', 'dill', '']
+Diseases paragraph: Fenix har meget god effekt mot de fleste ettårige ugras-
+arter. Effekten avhenger av jordtype, antall behandlinger, 
+behandlingstidspunkt og dosering. Virkningen er best når 
+en sprøyter på nyspirt eller spirende ugras. Virkningen 
+blir dårligere ved høyt moldinnhold. Dette motvirkes 
+ved å sprøyte på nyspirt ugras, ved å øke dosen eller 
+ved å blande med andre ugrasmidler. Effekten av Fenix 
+og andre preparater forsterkes mot en del ugras når de 
+blandes.
+Fenix har meget god effekt mot gjetertaske, klengemau-
+re, meldestokk, pengeurt, smånesle, vassarv, frøplante av 
+dylle, åkergull og åkerminneblom.
+Effekten er god mot balderbrå, hønsegras, jordrøyk, 
+linbendel, rødtvetann, tungras, veronika, åkerstemor, 
+knereverumpe og tunrapp.
+Variabel effekt mot vindelslirekne og åkersvineblom. 
+Effekten er svak mot då.
+Der då, balderbrå og åkersvineblom er et problem, må 
+Fenix brukes i kombinasjon med andre preparater.
+Diseases: ['Gjetertaske', 'balderbrå', 'jordrøyk', 'knereverumpe', 'meldestokk', 'tunrapp', 'ugras', 'åkersvineblom', '']
+
+File: 2016.2.pdf
+First Sentence: Hussar PLUS OD er tillatt brukt mot ugras i høst og vårbygg, høst- og vårhvete, rug og rughvete.
+Crops: ['rug', 'rughvete', 'vårhvete', 'vårbygg', 'høst- og vårhvete', '']
+Diseases paragraph: Hussar PLUS OD har god virkning mot mange tofrøblada ugrasarter og i tillegg virkning mot 
+grasugrasene markrapp og tunrapp. Høyeste dosering og tidlig behandling gir best virkning. 
+For å få tilstrekkelig virkning mot grasugrasene bør man benytte høyeste dosering. Midlet vil 
+være viktig i bekjempelsen av tunrapp i høstkorn, og et alternativ i vårkorn. Hussar PLUS OD 
+har dessuten god virkning mot overvintrende raigras der man har benyttet denne grasarten 
+som fangvekst året før. Ønsker man å utvide virkningsspekteret ytterligere, vil Hussar PLUS OD 
+kunne være blandingspartner for flere produkter bl.a. Gratil WG. 
+Hussar PLUS OD har meget god effekt mot balderbrå, ettårige dyllearter, då, gjetertaske, hare-
+mat, hønsegras, linbendel, meldestokk, oljevekster, paddesev, pengeurt, rødtvetann, tungras, 
+tunrapp, vassarve, veronika, åkergull, åkerminneblom og åkersennep.
+  
+Effekten er god mot gullkrage, klengemaure, markrapp, raigras, smånesle, åkertistel, vindelsli-
+rekne, åkerstemorsblomst og åkersvineblom.
+Hussar PLUS OD har noe effekt mot jordrøyk samt noe men variabel effekt mot knereverumpe.
+Diseases: ['Gjetertaske', 'balderbrå', 'jordrøyk', 'klengemaure', 'knereverumpe', 'meldestokk', 'tunrapp', 'vassarve', 'Åkersennep', 'åkertistel', 'markrapp', 'gullkrage', 'åkersvineblom', 'raigras', '', 'ugras']
+
+File: 2013.7.14.pdf
+First Sentence: Plen.
+Crops: ['']
+Diseases paragraph: en er
+synlig allerede etter en dag. Behandlet mose blir
+gulbrun på farge. 
+Finalsan Kon sen trat Mot Mose i plen etter later
+ingen rustfarge på stein, heller eller lignende.
+Bruksområde: Plen. Inntil 2 behandlinger per
+sesong, 3-4 ukers virkningstid.
+Virkeområde: Mot Mose.
+Diseases: ['']
+
+File: 2025.18.pdf
+First Sentence: Sporax er tillatt brukt mot tørråte i potet.
+Crops: ['potet', '']
+Diseases paragraph: Not found
+Diseases: ['', 'tørråte']
+
+File: 2018.10.pdf
+First Sentence: Bruksrettledning må følges, slik at 
+man unngår risiko for menneske og 
+miljø.
+Crops: ['']
+Diseases paragraph: Frukt: 4 dager
+BEHANDLINGSFRIST
+BRUKSRETTLEDNING
+Rist godt før bruk. Bruk ved begynnende 
+angrep, f.eks ved synlige skadedyr. 
+Spray tidlig om morgenen eller om 
+kvelden, da effekten er best ved lavere 
+temperaturer. Optimal virkning får 
+man ved å spraye planten grundig, 
+også undersiden av bladene, til den 
+er helt dråpevåt. Brukes middelet 
+inne, husk å dekke til underlaget, da 
+sprayen kan forårsake oljeﬂekker.
+Mot lus, trips og sikader i frukttrær og prydplanter
+Egnet til organisk dyrking
+Tillatt brukt i hobbyhager
+NATURAL
+ACTIVE
+INGREDIENTS
+B
+L
+A
+D
+L
+U
+S
+T
+R
+I
+P
+S
+M
+E
+L
+L
+U
+S
+Insektkonsentrat P
+Formulering: EC, konsentrat
+Sammensetning: Pyretriner 4,59 g/l (1 % w/w), Rapsolje 825 g/l (832 % w/w)
+Avgiftsklasse 6    Reg.nr. 2018.10
+250ml
+Advarsel
+Giftig, med langtidsvirkning, for liv i vann. 
+Unngå innåndning av areosoler. Oppbevares 
+utilgjengelig for barn. Samle opp spill. Bruk 
+egnet verneutstyr (se for-
+siktighetsregler). Uskadelig-
+gjør tomemballasjen (se av-
+fallshåndtering). Giftig for 
+bier og andere insekter.
+Bruksrettledning må følges, slik at man unngår risiko for 
+menneske og miljø. Det er forbudt å bruke preparatet i strid med godkjent bruks-
+område eller behandlingsfrist, eller å overskride den tillatte dosering/konsentrasjon. 
+Insekt-
+konsentrat P
+Mot bladlus, skjoldlus, ullus, 
+mellus, granlus, trips og sikader på 
+kjernefrukt, steinfrukt og prydplanter.
+Tillatt brukt i hobbyhager.
+Første hjelp: Ved innånding: Sørg for frisk luft. Ved fortsatte symptomer eller 
+illebeﬁnnende er legebehandling nødvendig. Ved hudkontakt: Vask huden med 
+såpe og vann. Kontakt lege hvis ikke alt ubehag gir seg. Ved øyekontakt: Skyll 
+straks med mye vann i minst 5 minutter. Løft øyelokket. Fjern evt. kontaktlinser, 
+fortsett deretter å skylle øyet. Kontakt øyelege hvis irritasjonen vedvarer. 
+Ved svelgning: Skyll munn med vann. IKKE framkall brekning. Hvis symptomer 
+fremkommer, kontakt lege.
+Lagring: Lagres tørt og kjølig, men frostfritt. Må ikke utsettes for direkte sollys.
+Avfallshåndtering: Sprayﬂasken tømmes fullstendig for innhold. Tomemballa-
+sjen kan leveres med husholdningsavfall. Konsentrerte plantevernmiddelrester og 
+ikke rengjort emballasje må innleveres til mottak for farlig avfall. Grunnvann eller 
+overﬂatevann må ikke forurenses med verken produkt eller beholder.
+Batch Nr.: Påtrykt emballasjen 
+Reg.Nr.: 2018.10  
+Avgiftsklasse: 6
+Nettovolym: 250 ml
+Godkjenningsinnehavere: W. Neudorff GmbH KG 31860 Emmerthal. Tyskland
+Importør: SBM Life Science AB, Box 13, 245 21 Staffanstorp, Sverige, 
++ 47 22 64 49 58. www.solabiol.no
+Bruksrettledning
+Mot lus, trips og sikader i frukttrær 
+og prydplanter
+Egnet til organisk dyrking
+Tillatt brukt i hobbyhager
+Bruksområde: 
+Eple, pære, plomme, 
+søtkirsebær (moreller), 
+surkirsebær, prydplanter i veksthus og 
+utendørs; samt i innendørs beplantninger.
+Virkeområde: 
+Bladlus, skjoldlus, ullus, mellus (hvitﬂ y), granlus, trips og sikader.
+Diseases: ['bladlus', 'skadedyr', 'insekter', 'trips', 'mellus', '']
+
+File: 2018.11.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2010.29.20.pdf
+First Sentence: Bygg, vårhvete, høsthvete, rug og rughvete.
+Crops: ['rug', 'høsthvete', 'rughvete', 'vårhvete', 'bygg', '']
+Diseases paragraph: Floghavre, spillkorn av havre, hønsehirse, busthirse samt raigras brukt som 
+fangvekst i korn.
+Diseases: ['floghavre', 'hønsehirse', 'spillkorn', 'raigras', '']
+
+File: 2018.18.24.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2025.19.pdf
+First Sentence: Beloukha Garden bekjemper de fleste ettårige ugressarter og mose 
+(behandlingstidspunkt mars-september) på udyrkede arealer, stier, 
+gårdsplasser, heller, rundt enkeltplanter, busker og trær og planter på 
+rekke/hekker.
+Crops: ['']
+Diseases paragraph: kan ses al­
+lerede etter få timer.
+Diseases: ['']
+
+File: 2008.42.18.pdf
+First Sentence: Harmony® 50SX® ugrasmiddel er tillatt brukt i eng og beite med og uten kløver 
+samt i fôrmais.
+Crops: ['eng', 'beite', 'fôrmais', '']
+Diseases paragraph: VIRKNING OVERFOR UGRAS ENG OG BEITE:
+Meget god virkning mot:
+Vanlig høymole, byhøymole, hundekjeks, rome og balderbrå-arter.
+Tilfredsstillende virkning mot:
+Engsoleie, krypsoleie, gjetertaske, marikåpe, rødtvetann, ryllik, skvallerkål, 
+stornesle (brennesle), tistel og vassarve*.
+Ikke tilfredsstillende virkning mot:
+Løvetann, einstape.
+Virkning overfor gras og kløver:
+Harmony® 50SX® ugrasmiddel gir ofte (vanligvis) en forbigående veksthemming 
+og gulfarging av graset i enga. Grasplantene kommer etter hvert i normal vekst 
+igjen. Engrapp, flerårig raigras, hundegras, kvein, rødsvingel, sauesvingel og 
+timotei påvirkes ikke nevneverdig av midlet. Etablert kløver får en forbigående 
+veksthemming, i noen tilfeller mer betydelig. Det er særlig engsvingel som kan 
+reagere negativt ved gulfarging og at veksten stanser i 2-3 uker.
+Avlingssummen over to år er på samme nivå som ved behandling med andre 
+godkjente ugrasmidler i gras.
+VIRKNING OVERFOR UGRAS I FÔRMAIS:
+Meget god virkning mot:
+Raps/rybs, balderbrå, då, gjetertaske, hønsegras, meldestokk, pengeurt, 
+rødtvetann, tungras, vindeslirekne, åkerminneblom, åkersennep
+Tilfredsstillende virkning mot:
+Haremat, vassarve*
+Ikke tilfredsstillende virkning mot:
+Jordrøyk, veronika
+*gjelder ikke sulfonylurea-resistent vassarve.
+Diseases: ['Gjetertaske', 'balderbrå', 'jordrøyk', 'meldestokk', 'raps', 'vassarve', 'vindeslirekne', 'Høymole', 'løvetann', 'stornesle', 'Åkersennep', 'ugras', 'timotei', 'engsvingel', 'hundegras', 'raigras', '']
+
+File: 2017.40.pdf
+First Sentence: UgressNIX Trippel Effekt er et raskt og effektivt plantevernmiddel mot 
+ugress og annen uønsket vegetasjon på harde overflater (grus, steinheller, betong, asfalt) i 
+hager og på fellesarealer.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['', 'ugress']
+
+File: 2015.4.21.pdf
+First Sentence: Mot tofrøbladet ugras i korn med 
+eller uten gjenlegg av gras.
+Crops: ['korn', 'gras', '']
+Diseases paragraph: Ratio® Super SX® ugrasmiddel er et bredtvirkende ugrasmiddel mot 
+tofrøbladet ugras.
+Ugrasvirkning
+Når bruksrettledningen følges, har Ratio® Super SX® ugrasmiddel effektiv 
+virkning på de fleste ugrasarter i korn. Nedenstående skjema viser virkningen 
+Ratio® Super SX® ugrasmiddel på flere ugrasarter.
+Meget god virkning:
+balderbrå
+meldestokk
+åkerminneblom
+då
+oljevekster
+åkertistel*
+gjetertaske
+pengeurt
+haremat
+vassarve
+hønsegras
+vindeslirekne
+linbendel
+åkerdylle*
+God virkning (hvis bekjempelse foretas på frøbladstadiet):
+rødtvetann
+tungras
+åkerstemorsblom
+storkenebb
+Svak virkning:
+gullkrage
+klengemaure
+svartsøtvier
+jordrøyk
+smånesle
+veronika-arter
+* Frøspirte planter, og planter som er 6-8 cm høye.
+Diseases: ['Gjetertaske', 'balderbrå', 'jordrøyk', 'klengemaure', 'meldestokk', 'vassarve', 'vindeslirekne', 'ugras', 'åkertistel', 'åkerdylle', 'gullkrage', '']
+
+File: 2017.17.21.pdf
+First Sentence: Mot tofrøbladet ugras i 
+høst- og vårhvete, rug, rughvete, bygg, 
+høstbygg og havre, uten gjenlegg.
+Crops: ['rug', 'høstbygg', 'rughvete', 'vårhvete', 'bygg', 'havre', 'høst- og vårhvete', '']
+Diseases paragraph: CDQ™ SX® ugrasmiddel er et bredtvirkende herbicid til bekjempelse av de fleste 
+2-frøblada ugrasarter i vårkorn og høstkorn uten gjenlegg.
+Ugrasvirkning
+Når bruksrettledningen følges, har CDQ™ SX® ugrasmiddel meget god virkning 
+(>85% effekt) på de fleste ugrasarter i korn. Nedenstående skjema viser virkningen 
+av full dose CDQ™ SX® ugrasmiddel på flere ugrasarter.
+155/150 x 70 - 11006197_22056274_LBL_ML-F_100G_CDQ SX_NO_2_BOOKLET_8pages_LEFT.indd   2
+155/150 x 70 - 11006197_22056274_LBL_ML-F_100G_CDQ SX_NO_2_BOOKLET_8pages_LEFT.indd   2
+20-02-2023   12:59
+20-02-2023   12:59
+FILL IN
+DIMENSIONS (WXH)
+Country
+NORWAY
+Single label
+Product SKU
+11006197
+Base for Booklet
+Product SKU Description
+CDQ SX_100G_NO
+Booklet
+155/150 x 70 mm
+Label SKU
+22056274
+Number of pages (Booklet)
+8 pages
+Label SKU Description
+LBL_ML-F_100G_CDQ SX_NO_2
+Carton label
+Label SKU (earlier version(s))
+Preprinted Material
+11006197_22056274_NORWAY - BOOKLET PAGE 3
+BLACK
+Høstkorn
+95-100% effekt
+Balderbrå*
+Då
+Gjetertaske
+Hønsegrasarter
+Gullkrage*
+Haremat*
+Hundepersille
+Kamilleblom
+Kornblom*
+Kornvalmue*
+Linbendel
+Meldestokk
+Oljevekster
+Orientveronika*
+Pengeurt
+Rødtvetann*
+Tunbalderbrå*
+Åkersennep
+Vassarve
+Åkerminneblom
+Åkerveronika*
+85-95% effekt
+Jordrøyk*
+Tranehals*
+Tungras*
+Vindeslirekne*
+<85% effekt
+Bakkeveronika 
+Åkertistel**
+Åkerstemorsblom*
+Burot*
+Vårkorn***
+95-100% effekt
+Balderbrå
+Då
+Gjetertaske
+Hønsegras-arter
+Gullkrage* 
+Haremat*
+Hundepersille
+Kamilleblom
+Kornblom*
+Kornvalmue*
+Linbendel
+Meldestokk
+Oljevekster
+Orientveronika* 
+Pengeurt
+Rødtvetann*
+Tunbalderbrå*
+Åkersennep
+Vassarve
+Åkerminneblom
+Åkerveronika*
+85-95% effekt
+Jordrøyk* 
+Tranehals* 
+Tungras*
+Vindeslirekne*
+Åkerstemorsblom*
+Burot*
+<85% effekt
+Bakkeveronika
+Åkertistel**
+Ved 2,7 gram CDQ™ SX® ugrasmiddel per daa + DP-klebemiddel
+* Frøbladstadiet til 2 varige blad
+**Frøspirte planter og planter som er 6-8 cm høye
+*** maks 1,8 g CDQ™ SX® ugrasmiddel per daa + DP-klebemiddel i havre
+155/150 x 70 - 11006197_22056274_LBL_ML-F_100G_CDQ SX_NO_2_BOOKLET_8pages_LEFT.indd   3
+155/150 x 70 - 11006197_22056274_LBL_ML-F_100G_CDQ SX_NO_2_BOOKLET_8pages_LEFT.indd   3
+20-02-2023   12:59
+20-02-2023   12:59
+FILL IN
+DIMENSIONS (WXH)
+Country
+NORWAY
+Single label
+Product SKU
+11006197
+Base for Booklet
+Product SKU Description
+CDQ SX_100G_NO
+Booklet
+155/150 x 70 mm
+Label SKU
+22056274
+Number of pages (Booklet)
+8 pages
+Label SKU Description
+LBL_ML-F_100G_CDQ SX_NO_2
+Carton label
+Label SKU (earlier version(s))
+Preprinted Material
+11006197_22056274_NORWAY - BOOKLET PAGE 4
+BLACK
+Diseases: ['Gjetertaske', 'balderbrå', 'jordrøyk', 'kornblom', 'meldestokk', 'vassarve', 'vindeslirekne', 'Bakkeveronika', 'Orientveronika', 'Åkersennep', 'åkertistel', 'gullkrage', 'burot', '', 'ugras']
+
+File: 2014.1.pdf
+First Sentence: Betanal SE er tillatt brukt i fôrbete, rødbete og jordbær.
+Crops: ['jordbær', 'rødbete', '']
+Diseases paragraph: Betanal SE virker mot de fleste tofrøblada frøugras inntil 
+de har 2 varige blad. Preparatet tas opp gjennom grønne 
+plantedeler og virker kun på oppspirt ugras. Virkningen viser 
+seg 4- 8 dager etter sprøyting som en avblekning av bladene. 
+Symptomene er først synlig mellom nervene og ved bladran-
+den, og senere på hele bladet før planten etterhvert dør. Ved 
+bruk mot ugras som klengemaure, hønsegras, tunbalderbrå, 
+tungras og tunrapp kan virkningen ofte variere mye. Dersom 
+dette er problemugrasene i åkeren kan blanding med andre 
+preparater være aktuelt.
+Diseases: ['klengemaure', 'tunrapp', 'ugras', 'frøugras', '']
+
+File: 2013.9.14.pdf
+First Sentence: Plantevernmiddel mot ugress, mose
+og alger.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['', 'ugress']
+
+File: 2022.28.pdf
+First Sentence: Hobbybruk i fuksia, pelargonium og begonia i leiligheter og veksthus.
+Crops: ['']
+Diseases paragraph: Plantevernmiddel: mot insekter.
+Diseases: ['insekter', '']
+
+File: 2025.21.pdf
+First Sentence: På udyrkede arealer: på veier, fortau, grusganger, hellelagte 
+gangstier, jernbane, gårdsplasser, industriområder.
+Crops: ['']
+Diseases paragraph: Katoun Gold virker på de fleste ettårige ugrasarter og mose.
+Diseases: ['']
+
+File: 2016.10.pdf
+First Sentence: Tomahawk® 200 EC er tillatt brukt i høst- og vårkorn, grasgjenlegg med eller uten korn 
+som dekkvekst, vårkorn med fangvekst av gras, fôrmais, eng, beite og gras i grøntanlegg.
+Crops: ['eng', 'beite', 'korn', 'fôrmais', 'Vårkorn', 'gras', '']
+Diseases paragraph: God effekt på følgende ugras, avhengig av dosering: då, haremat, klengemaure, 
+pengeurt, tungras, vassarve (også SU-resistens), vindelslirekne, åkerminneblom, 
+løvetann, stornesle, høymole, rosebusker, kløverarter, mjølkearter og ulike syrearter. Som 
+resistensbryter på SU-resistent ugras er den effektiv på vassarve og då. Mot geitrams, 
+bringebær, vikkearter, lauvkratt og snelle er ikke effekten tilfredsstillende med bruk av 
+Tomahawk® 200 EC alene.
+Diseases: ['klengemaure', 'vassarve', 'Høymole', 'løvetann', 'stornesle', 'Geitrams', 'vikkearter', 'ugras', '']
+
+File: 2008.57.14.pdf
+First Sentence: Mot soppsykdommer på høst- og vårhvete, bygg, rug og rughvete, 
+potet, kepaløk, sjalottløk, vårløk, purre, gulrot, persillerot, kruspersille 
+(friland), bladpersille, pastinakk, stangselleri, knollselleri, blomkål, brok-
+koli, hodekål, rosenkål, grønnkål, kinakål, ruccola, kålrot, nepe, salat på 
+friland, rødbete, reddik, sukkerbete, fôrbete, ert til konserves, sukkerer-
+ter, erter til modning, bønner, frilandsagurk, raps, rybs samt jordbær og 
+bringebær på friland, plasttunnel og i veksthus.
+Crops: ['bringebær', 'rug', 'rughvete', 'vårhvete', 'jordbær', 'salat', 'kepaløk', 'potet', 'erter', 'bønner', 'kålrot', 'hodekål', 'gulrot', 'pastinakk', 'knollselleri', 'rødbete', 'bygg', 'rosenkål', 'blomkål', 'nepe', 'sjalottløk', 'vårløk', 'ruccola', 'kruspersille', 'bladpersille', 'høst- og vårhvete', 'purre', 'rybs', 'kinakål', 'frilandsagurk', 'stangselleri', 'persillerot', '']
+Diseases paragraph: en av produktet er forøvrig ikke særlig temperatur avhengig.
+Diseases: ['', 'raps', 'soppsykdommer']
+
+File: 2018.14.pdf
+First Sentence: Syllit 544 SC er tillatt brukt mot skurv i eple og pære samt mot heggeflekk i kirsebær.
+Crops: ['eple', 'pære', 'kirsebær', '']
+Diseases paragraph: Not found
+Diseases: ['', 'skurv', 'heggeflekk']
+
+File: 2020.10.pdf
+First Sentence: Mot ugras i potet og til 
+nedsviing av potetris.
+Crops: ['potet', '']
+Diseases paragraph: Spotlight Plus brukt alene har god effekt på en rekke ugrasarter (se tabell). 
+Ugraseffekt
+Norsk navn
+Latinsk navn 
+33 ml/daa Spotlight™ Plus
+Balderbrå
+Tripleurospermum inodorum
+*
+Tunbalderbrå
+Matricaria discoidea
+*
+Då-arter
+Galeopsis sp.
+***
+Gjetertaske
+Capsella bursa-pastoris
+***
+Hønsegras
+Persicaria maculosa
+****
+Klengemaure
+Galium aparine
+**
+Linbendel
+Spergula arvensis
+***
+Meldestokk
+Chenopodium album
+***
+Orientveronika
+Veronica persica
+***
+Raps
+Brassica napus
+****
+Rødtvetann
+Lamium purpureum
+**
+Smånesle
+Urtica urens
+****
+Tungras
+Poligonum aviculare
+***
+Vassarve
+Stellaria media
+*
+Vindeslirekne
+Fallopia convolvolus
+***
+Åkerstemorsblom
+Viola arvensis
+**
+Åkersvineblom
+Senecio vulgaris
+**
+Ugraseffekten er klassifisert som følger:
+Meget bra effekt (****) 95-100%
+Bra effekt (***) 85-94,9%
+Effekt (**) 70-84,9%
+Delvis effekt (*) 50-69,9%
+130 x 135 - 10078676_15146103_E,SPOTLIGHTPLUS,60EW,5L,O#NO,MF,R2,BOOKLET.indd   2
+130 x 135 - 10078676_15146103_E,SPOTLIGHTPLUS,60EW,5L,O#NO,MF,R2,BOOKLET.indd   2
+23/06/2020   09:05
+23/06/2020   09:05
+10078676_15146103_NORWAY,BOOKLET-PAGE-3
+FILL IN
+DIMENSIONS (WXH)
+Country
+Norway
+Single label
+Product SKU
+10078676
+Base for Booklet
+Product SKU Description
+SPOTLIGHT PLUS,60ME,4X5L,O#NORWAY
+Booklet
+130 x 135 mm
+Label SKU
+15146103
+Number of pages (Booklet)
+5 pages
+Label SKU Description
+E,SPOTLIGHTPLUS,60EW,5L,O#NO,M/F,R2
+Carton label
+Label SKU (earlier version(s)) x
+Preprinted Material
+BLACK
+Diseases: ['Gjetertaske', 'balderbrå', 'klengemaure', 'meldestokk', 'raps', 'vassarve', 'vindeslirekne', 'Orientveronika', 'åkersvineblom', '', 'ugras']
+
+File: 2018.9.pdf
+First Sentence: Mot soppsykdommer på høst- og vårformer av hvete, bygg, rug og rughvete.
+Crops: ['rug', 'rughvete', 'bygg', 'hvete', '']
+Diseases paragraph: ELATUS™ Plus er et systemisk soppmiddel som beskytter svært godt mot alle typer 
+rust, grå øyeflekk, byggbrunflekk, spragleflekk, hvetebladprikk og hveteaksprikk.
+Diseases: ['rust', 'grå øyeflekk', 'byggbrunflekk', 'spragleflekk', 'hvetebladprikk', 'hveteaksprikk', '', 'soppsykdommer']
+
+File: 2025.20.pdf
+First Sentence: Beloukha Garden RTU bekjemper de fleste ettårige ugressarter og 
+mose (behandlingstidspunkt mars-september).
+Crops: ['']
+Diseases paragraph: kan ses allerede etter få timer.
+Diseases: ['']
+
+File: 2006.17.17.pdf
+First Sentence: en må følges slik at man unngår 
+risiko for menneske og miljø.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2006.42.14.pdf
+First Sentence: Gallery herbicid er tillatt brukt i kjernefrukt, steinfrukt, bærvekster, prydplanteskole, buskrabatter og beplantninger.
+Crops: ['']
+Diseases paragraph: en mot 
+klengemaure, tungras, mjølkearter og åkersvineblom er variabel og ofte ikke tilfredsstillende.
+Diseases: ['klengemaure', 'åkersvineblom', '']
+
+File: 2014.6.pdf
+First Sentence: Mero er tillatt brukt i tankblanding med At-
+lantis, Gratil, Hussar OD, Hussar Tandem 
+OD, MaisTer og Sekator.
+Crops: ['']
+Diseases paragraph: Mero er et additiv til plantevernmidler.
+Diseases: ['']
+
+File: 2009.32.14.pdf
+First Sentence: Celest® Formula M er tillatt brukt til beising av såkorn av høst- og vårhvete, rug, bygg og havre.
+Crops: ['rug', 'vårhvete', 'bygg', 'havre', 'høst- og vårhvete', '']
+Diseases paragraph: Mot spiringsfusarioser (Fusarium spp.), snømugg (Microdochium nivale), stinksot og hveteaksprikk.
+Diseases: ['hveteaksprikk', 'snømugg', '']
+
+File: 2017.23.22.pdf
+First Sentence: Siltra Xpro EC 260 er tillatt brukt i bygg, havre, høst- og 
+vårhvete, rug og rughvete.
+Crops: ['rug', 'rughvete', 'vårhvete', 'bygg', 'havre', '']
+Diseases paragraph: Siltra Xpro EC 260 er et soppmiddel med systemisk virk-
+ning mot mjøldogg, grå øyeﬂ ekk, byggbrunﬂ ekk, spragle-
+ﬂ ekk, havreseptoria, havrebrunﬂ ekk, hveteaksprikk  (Sta-
+gonospora nodorum), hvetebladprikk (Septoria tritici), 
+hvetebrunﬂ ekk (DTR), brunrust, dvergrust, gulrust og Fusa-
+rium- arter som går i akset på korn. 
+Under gode sprøyteforhold vil Siltra Xpro EC 260 ha god 
+virkning mot gulrust og brunrust også ved bruk av halv og 
+trekvart dose. Vær oppmerksom på at redusert dose gir 
+kortere virkningstid. Siltra Xpro EC 260 har i hovedsak fore-
+byggende virkning mot sykdommene.
+Diseases: ['hvetebladprikk', 'hveteaksprikk', 'mjøldogg', 'havreseptoria', 'brunrust', 'dvergrust', 'gulrust', '']
+
+File: 2020.12.pdf
+First Sentence: Mainspring® er tillatt mot skade insekter på prydplanter i veksthus.
+Crops: ['prydplanter', '']
+Diseases paragraph: SMEKANISME
+MAINSPRING er et systemisk preparat til kontroll av skadeinsekter på prydplanter.
+Diseases: ['skadeinsekter', '', 'insekter']
+
+File: 2019.12.21.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2010.20.17.pdf
+First Sentence: RIZOLEX 50 FW er tillatt brukt til beising av settepoteter, blomsterløk og blom-
+sterknoller og til nedvanning/innblanding i jord ved såing,stikking og planting
+av prydplanter i veksthus og i planteskoler.
+Crops: ['prydplanter', 'blomsterløk', '']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2016.13.21.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2009.86.16.pdf
+First Sentence: Mot frøoverførte soppsykdommer i bygg, havre, høst- og vårhvete, rug og rughvete.
+Crops: ['rug', 'rughvete', 'vårhvete', 'bygg', 'havre', 'høst- og vårhvete', '']
+Diseases paragraph: Fungazil A virker mot frøoverført smitte av soppsykdommer så som stripesjuke, 
+bipolarisbrunflekk, byggbrunflekk, havrebrunflekk og spiringsfusarioser.
+Diseases: ['byggbrunflekk', 'soppsykdommer', 'havrebrunflekk', '']
+
+File: 2012.17.14.pdf
+First Sentence: Maxim® 100 FS er tillatt brukt til beising av settepoteter.
+Crops: ['']
+Diseases paragraph: Maxim® 100 FS virker mot svartskurv (Rhizoctonia solani), 
+sølvskurv (Helminthosporium solani), svartprikk (Colleto-
+trichum coccodes) og har en tilleggseffekt på flatskurv 
+(Streptomyces scabies).
+Diseases: ['']
+
+File: 2016.12.pdf
+First Sentence: Ugresseddik Dobbeltvirkende er et raskt og effektivt plantevernmid­
+del mot ugress og annen uønsket vegetasjon på harde overflater (grus, steinheller, be­
+tong, asfalt) i hager og på fellesarealer.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['', 'ugress']
+
+File: 2011.19.19.pdf
+First Sentence: Mot bladlus i tomat, agurk, paprika, salat, krydderurter og jordbær i veksthus.
+Crops: ['jordbær', 'tomat', 'salat', 'agurk', 'paprika', 'krydderurter', '']
+Diseases paragraph: Pirimor® er tillatt brukt i veksthus mot bladlus i tomat, agurk, paprika, salat, 
+krydderurter og jordbær.
+BRUK OG DOSERING
+Diseases: ['bladlus', '']
+
+File: 2016.29.21.pdf
+First Sentence: METAXON er tillatt brukt i eng, beite, gras i grøntanlegg, frukthager, korn, i gjenlegg av hvit- alsike- 
+eller rødkløver med eller uten korn som dekkvekst, og i korn med fangvekster.
+Crops: ['frukthager', 'eng', 'beite', 'korn', 'gras', 'rødkløver', '']
+Diseases paragraph: METAXON har god virkning mot meldestokk, dåarter, åkergråurt og alle korsblomstra ugras og 
+noe virkning mot då-arter.
+Diseases: ['korsblomstra ugras', 'meldestokk', 'åkergråurt', 'ugras', '']
+
+File: 2016.5.pdf
+First Sentence: Mot oljeraps, oljerybs, potet, erter, åkerbønne, bønner, fôrmargkål, fôrraps, 
+lin, kålrot, hodekål, brokkoli, gulrot, pastinakk, knollselleri, rødbete, fôrbete, 
+rødkløver- og rødsvingelfrøeng, kepaløk, jordbær på friland, eple, pære, 
+stikkelsbær, bringebær, rips og solbær.
+Crops: ['eple', 'pære', 'stikkelsbær', 'bringebær', 'rips', 'solbær', 'åkerbønne', 'jordbær', 'kepaløk', 'oljeraps', 'oljerybs', 'potet', 'erter', 'bønner', 'fôrmargkål', 'fôrraps', 'lin', 'kålrot', 'hodekål', 'brokkoli', 'gulrot', 'pastinakk', 'knollselleri', 'rødbete', 'rødsvingelfrøeng', 'rødkløver', '']
+Diseases paragraph: Mot kveke, floghavre, knereverumpe, spillkorn, hønsehirse og andre grasarter. 
+Begrenset virkning mot tunrapp.
+Behandlingsfrist 
+Jordbær	
+: etter høsting
+Knollselleri, pastinakk, lin, oljevekster	
+: 90 dager
+Rødbete, fôrbete	
+: 60 dager
+Potet	
+: 56 dager
+Erter, åkerbønne, bønner, rødkløver- og rødsvingelfrøeng	 : 45 dager
+Fôrmargkål, fôrraps	
+: 42 dager
+Eple, pære, rips, solbær, stikkelsbær, bringebær	
+: 35 dager
+Kepaløk, kålrot, gulrot, brokkoli, hodekål	
+: 30 dager
+Diseases: ['floghavre', 'grasarter', 'hønsehirse', 'kveke', 'knereverumpe', 'spillkorn', 'tunrapp', '']
+
+File: 2016.7.25.pdf
+First Sentence: Celest
+® Extra Formula M er tillatt brukt til beising av såkorn av hvete, bygg, havre, rug og rughvete.
+Crops: ['rug', 'rughvete', 'bygg', 'havre', 'hvete', '']
+Diseases paragraph: Celest® Extra Formula M er et bredtvirkende beisemiddel med effekt mot spiringsfusarioser 
+(Fusarium spp.), stinksot (Tilletia caries), stråsot (Urocystis occulta) i rug og rughvete, snømugg 
+(Microdochium nivale), dvergstinksot (Tilletia controversa) i rughvete, naken sot (Ustilago tritici) i 
+hvete, naken sot (Ustilago nuda hordei) i bygg, bipolaris (Cochliobolus sativus), naken sot (Ustilago 
+avenae), havrebrunflekk (Pyrenophora avenea) i havre.
+Diseases: ['havrebrunflekk', 'snømugg', '']
+
+File: 2016.37.21.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2016.9.20.pdf
+First Sentence: Mot bladmidd og spinnmidd i bringebær på friland, prydplanter i 
+planteskoler og grøntanlegg.
+Crops: ['prydplanter', 'bringebær', '']
+Diseases paragraph: Danitron 5 SC er et kontaktmiddel med rask og langvarig virkning 
+mot alle bevegelige stadier til spinnmidd samt frittlevende blad-
+midd.
+Diseases: ['spinnmidd', 'midd', '', 'bladmidd']
+
+File: 2017.21.pdf
+First Sentence: Fibro® er tillatt brukt mot bladlus som virusvektor i 
+potet, mot frukttremidd i stein- og kjernefrukt samt 
+pæresuger i pære.
+Crops: ['pære', 'potet', '']
+Diseases paragraph: Fibro® virker mot ikke-persistente virus som PVA og 
+PVY ved at smittespredningen fra bladlus reduseres 
+betraktelig.
+Diseases: ['bladlus', '', 'frukttremidd']
+
+File: 2019.18.pdf
+First Sentence: Seedron®  må bare benyttes til beising av såkorn av hvete, bygg, havre, rug og rughvete.
+Crops: ['rug', 'rughvete', 'bygg', 'havre', 'hvete', '']
+Diseases paragraph: Seedron® er et beisemiddel for beising mot jord- og frøoverførte sykdommer i hvete, bygg, havre, rug og rughvete.
+Diseases: ['']
+
+File: 2019.30.pdf
+First Sentence: Eple, pære, plomme, søtkirsebær (moreller), surkir­
+sebær, prydplanter i veksthus og utendørs, samt i 
+innendørs beplantninger.
+Crops: ['prydplanter', 'eple', 'pære', 'søtkirsebær', 'plomme', '']
+Diseases paragraph: Bladlus, skjoldlus, ull lus, mellus (hvitfly),
+granlus, trips og sikader.
+Diseases: ['bladlus', 'trips', 'mellus', '']
+
+File: 2019.24.pdf
+First Sentence: Mustang Forte er et systemisk bladherbicid til bekjemping av tofrøbladede ugras i vårkorn (hvete, bygg 
+og havre) og høstkorn (hvete, bygg, rug og rughvete).
+Crops: ['rug', 'rughvete', 'bygg', 'havre', 'hvete', 'Vårkorn', '']
+Diseases paragraph: Not found
+Diseases: ['', 'bladherbicid', 'ugras']
+
+File: 2012.13.17.pdf
+First Sentence: Eple, pære, plomme, søtkirsebær (moreller), surkirsebær, 
+prydplanter i veksthus og utendørs; samt i innendørs beplantninger.
+Crops: ['prydplanter', 'eple', 'pære', 'søtkirsebær', 'plomme', 'surkirsebær', '']
+Diseases paragraph: Bladlus, skjoldlus, ullus, mellus (kvitfly), granlus, trips og sikader.
+Diseases: ['bladlus', 'trips', 'mellus', '']
+
+File: 2014.5.14.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2023.19.pdf
+First Sentence: CONSERVE er tillatt brukt i prydplanter, tomat, agurk, krydderurter og jordbær i veksthus.
+Crops: ['prydplanter', 'jordbær', 'tomat', 'agurk', 'krydderurter', '']
+Diseases paragraph: CONSERVE er et insektmiddel til bekjempelse av trips (Franklinella occidentalis, Thrips tabaci 
+m.fl.) og minerfluer (Liriomyza spp.) på planter i veksthus.
+Diseases: ['trips', 'minerfluer', '']
+
+File: 2023.18.pdf
+First Sentence: Select Plus er tillatt brukt i jordbær, potet, 
+gulrot, 
+kepaløk, 
+lin, 
+oljerybs, 
+oljeraps, 
+sukkerbete, 
+fôrbete, 
+rødbete, 
+ert 
+til 
+frømodning samt bønner til frømodning og 
+konsum.
+Crops: ['jordbær', 'kepaløk', 'oljeraps', 'oljerybs', 'potet', 'bønner', 'lin', 'gulrot', 'rødbete', '']
+Diseases paragraph: Select Plus har særlig god virkning mot 
+tunrapp, 
+spillkorn, 
+floghavre 
+og 
+andre 
+ettårige grasarter, og flerårig raigras.
+Diseases: ['floghavre', 'grasarter', 'spillkorn', 'tunrapp', 'raigras', '']
+
+File: 2023.24.pdf
+First Sentence: Turex 50 WG er tillatt brukt i grønnsaker i veksthus og på friland, prydplan-
+ter i veksthus, frukttrær på friland og i plasttunneler, urter og bær (inkludert 
+jordbær) på friland, i tunnel og veksthus, planteskoler og skogbruk.
+Crops: ['jordbær', 'grønnsaker', 'bær', 'urter', '']
+Diseases paragraph: Turex WG er et mikrobiologisk plantevernmiddel på basis av sporer og 
+krystaller fra bakterien Bacillus thuringiensis. Det virker mot larver av ulike 
+sommerfuglarter (Lepidoptera) bl.a. kålmøll, eplevikler, fruktskallvikler, 
+frostmåler, eplespinnmøll og ringspinner.
+Bemerk at produktet kun er utprøvd mot et begrenset antall av de mange 
+arter innenfor familiene møll, nattﬂy, dagsommerfugler og viklere. 
+Effektiviteten kan variere avhengig av den aktuelle art.
+Middelet tas opp av larvene ved at de spiser på behandlet plantemateriale. 
+Noen timer senere stopper de å spise og larvene dør i løpet av noen 
+dager. Unge larver bekjempes vesentlig raskere enn eldre larver. For å 
+oppnå god effekt er det viktig at alle relevante plantedeler blir dekket med 
+sprøytevæsken. Ved ﬂere behandlinger skal det gå minst 7 dager mellom 
+behandlingene.
+Vær oppmerksom på, at det kun er larver som gnager på behandlede 
+plantedeler som bekjempes. Larver, som har gnaget seg inn i fruktene på 
+behandlingstidspunktet eller som er innspunnet, bekjempes ikke.
+Diseases: ['kålmøll', '']
+
+File: 2012.1.14.pdf
+First Sentence: Decis Mega EW 50 er tillatt brukt mot skadedyr i korn, gras- og kløverfrøeng, eng og beite med og 
+uten engbelgvekster, gras i grøntanlegg, oljevekster, poteter, grønnfôrvekster, gulrot, pastinakk, 
+persillerot, frilandsagurk, rødbete, ert til konserves, sukkerert, bønne til modning, brekkbønne, 
+sukkermais, hodekål, rosenkål, blomkål, brokkoli, knutekål, kålrot, kinakål, nepe, reddik, purre 
+og løk.
+Crops: ['bønne', 'kålrot', 'hodekål', 'brokkoli', 'gulrot', 'pastinakk', 'rødbete', 'rosenkål', 'blomkål', 'nepe', 'eng', 'beite', 'korn', 'gras', 'knutekål', 'sukkermais', 'løk', 'purre', 'kinakål', 'sukkerert', 'frilandsagurk', 'persillerot', '']
+Diseases paragraph: Decis Mega EW 50 er et pyretroid med virkning mot de ﬂ este insekter. Preparatet er skadelig for 
+rovmidd og nytteinsekter. Decis Mega EW 50 er skånsomt mot planter, men er ikke prøvd i alle 
+mulige arter og sorter og heller ikke under alle mulige forhold. Utfør derfor en prøvesprøyting før 
+et stort antall verdifulle planter behandles hvis det mangler erfaring med arten og sorten.
+Diseases: ['insekter', '', 'skadedyr']
+
+File: 2006.37.17.pdf
+First Sentence: ARIANE™ S kan brukes til vårbehandling i høst- og vårkorn, grasgjenlegg og 
+raigras med eller uten korn som dekkvekst og i grasfrøeng, samt gras i 
+grøntanlegg.
+Crops: ['korn', 'grasfrøeng', 'Vårkorn', 'gras', '']
+Diseases paragraph: S- OG DOSERINGSTABELL
+ARIANE S bekjemper de ﬂeste økonomisk viktige tofrøblada frøugras, men også rotugras som løvetann og åkerdylle.
+Diseases: ['løvetann', 'åkerdylle', 'rotugras', 'frøugras', '', 'raigras']
+
+File: 2017.1.22.pdf
+First Sentence: MODDUS® M er et vekstregulerende middel tillatt brukt mot legde i høst- og vårhvete, høst- og vår-
+bygg, havre, rug og rughvete, med eller uten gjenlegg, samt frøeng av timotei, engsvingel, rødsvingel, 
+hundegras, engkvein, krypkvein, engrapp, bladfaks og rødkløver og raigras.
+Crops: ['rug', 'rughvete', 'vårhvete', 'frøeng', 'bygg', 'havre', 'høst- og vårhvete', 'rødkløver', '']
+Diseases paragraph: Not found
+Diseases: ['', 'legde', 'timotei', 'engsvingel', 'hundegras', 'raigras']
+
+File: 2008.56.25.pdf
+First Sentence: Mot soppsykdommer   i jordbær på friland, i plasttunnel og veksthus, bringebær og 
+bjørnebær på friland og plasttunnel, solbær, rips, stikkelsbær, hageblåbær, sur- og 
+søtkirsebær, asparges, salat på friland, ert til konserves og til modning, bønne til 
+konsum, åkerbønne til modning og tomat, agurk, paprika, aubergine i veksthus samt 
+prydplanter i veksthus og i planteskoler.
+Crops: ['prydplanter', 'stikkelsbær', 'bringebær', 'rips', 'solbær', 'åkerbønne', 'jordbær', 'søtkirsebær', 'tomat', 'hageblåbær', 'asparges', 'salat', 'bønne', 'aubergine', 'agurk', 'paprika', 'bjørnebær', '']
+Diseases paragraph: SWITCH® 62.5 WG virker forebyggende mot gråskimmel, monilia og storknolla råtes-
+opp, og har en viss virkning mot bladflekksjukdommer.
+Diseases: ['bladflekksjukdommer', 'gråskimmel', 'monilia', '', 'soppsykdommer']
+
+File: 2017.13.25.pdf
+First Sentence: Mot soppsykdommer i potet.
+Crops: ['potet', '']
+Diseases paragraph: Brukes forebyggende mot tørrflekksyke (Alternaria) og tørråte (Phytophthora infestans). Revus Top® har 
+meget god effekt mot sykdommer i gruppen oomycetes, som potettørråte (Phytophthora infestans). 
+Revus Top® har også meget god effekt mot sykdommer forårsaket av sopper, som tørrflekksyke 
+(Alternaria).
+Diseases: ['Alternaria', 'Phytophthora', 'tørråte', '', 'soppsykdommer']
+
+File: 2019.25.pdf
+First Sentence: Eple, pære, plomme, søtkirsebær 
+(moreller), surkirsebær, prydplanter i veksthus og 
+utendørs, samt i innendørs beplantninger.
+Crops: ['prydplanter', 'eple', 'pære', 'søtkirsebær', 'plomme', 'surkirsebær', '']
+Diseases paragraph: Bladlus, skjoldlus, ullus, mellus 
+(hvitﬂy), granlus, trips og sikader.
+Diseases: ['bladlus', 'trips', 'mellus', '']
+
+File: 2017.34.pdf
+First Sentence: En behandling per år: 1 injeksjon (0,1 ml) per 10 cm 
+stammeomkrets.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2019.19.pdf
+First Sentence: Høstkorn
+TIDSPUNKT DOSERING
+UGRAS
+85-100 % effekt
+70-84 % effekt
+BBCH 20-29 1,5 g/daa + 
+PG26N
+Klengemaure, vassarve og 
+balderbrå
+BBCH 30-32 3,3 g/daa + 
+PG26N
+Klengemaure, åkerminneblom, 
+vassarve, meldestokk, 
+gjetertaske, kornblom, 
+balderbrå, pengeurt og raps
+Åkertistel
+Vårkorn
+TIDSPUNKT
+DOSERING
+UGRAS
+85-100 % effekt
+70-84 % effekt
+BBCH 13-19
+1 g/daa + 
+PG26N
+Åkersennep, klengemaure, 
+vassarve, meldestokk, 
+balderbrå, då-arter, 
+rødtvetann og vindeslirekne
+BBCH 20-29
+1,5 g/daa + 
+PG26N
+Åkersennep, klengemaure, 
+vassarve, meldestokk, 
+balderbrå og vindeslirekne
+Gullkrage og 
+då-arter
+BBCH 30-32
+3,3 g/daa + 
+PG26N
+Gullkrage, meldestokk, 
+åkersennep, åkertistel, 
+klengemaure, vassarve, 
+balderbrå, vindeslirekne og 
+åkerdylle
+Rødtvetann og 
+då-arter
+KLEBEMIDDEL
+Lancelot må blandes med klebemiddelet PG26N for å oppfylle deklarert 
+virkeområde.
+Crops: ['Vårkorn', '']
+Diseases paragraph: Not found
+Diseases: ['', 'Gjetertaske', 'balderbrå', 'kornblom', 'klengemaure', 'meldestokk', 'raps', 'vassarve', 'vindeslirekne', 'Åkersennep', 'ugras', 'åkertistel', 'åkerdylle', 'gullkrage']
+
+File: 2017.20.pdf
+First Sentence: Skal bare brukes til å kontrollere bestemte typer skadedyr på 
+solbær, rips, stikkelsbær, blåbær, gulrøtter, beter, sellerirot, per­
+sillerot, pastinakk, skorsonerrot, pepperrot, sikori på friland; 
+prydvekster, salat, spinat, portulakk, persille og krydderurter i 
+veksthus og på friland; tomat og aubergine i veksthus.
+Crops: ['stikkelsbær', 'rips', 'solbær', 'tomat', 'salat', 'aubergine', 'blåbær', 'pastinakk', 'krydderurter', 'pepperrot', 'beter', 'persille', '']
+Diseases paragraph: Raptol® virker mot spinnmidd, trips, nebbmunner (dvs. bladlus, 
+mellus, skjoldlus, sikader, sugere og teger), samt mot insektlar­
+ver, f.eks. sommerfugl-, planteveps- og bladbillelarver (unntatt 
+borende og minerende arter).
+Diseases: ['bladlus', 'spinnmidd', 'trips', 'mellus', '', 'skadedyr']
+
+File: 2021.21.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2017.36.pdf
+First Sentence: Mot grasugras i oljeraps, oljerybs, potet, erter, åkerbønne, bønner, fôrmargkål, fôrraps, 
+lin, kålrot, hodekål, brokkoli, gulrot, pastinakk, knollselleri, rødbete, fôrbete, rødkløver- og 
+rødsvingelfrøeng, kepaløk, jordbær på friland, eple, pære, stikkelsbær, bringebær, rips 
+og solbær.
+Crops: ['eple', 'pære', 'stikkelsbær', 'bringebær', 'rips', 'solbær', 'åkerbønne', 'jordbær', 'kepaløk', 'oljeraps', 'oljerybs', 'potet', 'erter', 'bønner', 'fôrmargkål', 'fôrraps', 'lin', 'kålrot', 'hodekål', 'brokkoli', 'gulrot', 'pastinakk', 'knollselleri', 'rødbete', 'rødsvingelfrøeng', 'rødkløver', '']
+Diseases paragraph: Mot kveke, floghavre, knereverumpe, spillkorn, hønsehirse og andre grasarter.
+Begrenset virkning mot tunrapp.
+Diseases: ['floghavre', 'grasarter', 'hønsehirse', 'kveke', 'knereverumpe', 'spillkorn', 'tunrapp', '', 'grasugras']
+
+File: 2009.71.14.pdf
+First Sentence: Frukt, bær, eple,pære,
+plomme, søtkirsebær(moreller), surkirsebær,
+prydplanter i veksthus og utendørs, samt 
+innendørs beplantninger.
+Crops: ['prydplanter', 'eple', 'pære', 'søtkirsebær', 'plomme', 'surkirsebær', 'frukt', 'bær', '']
+Diseases paragraph: Bladlus, skjoldlus,ull lus,mellus
+(hvitfly),granlus,trips og sikader.
+Diseases: ['bladlus', 'trips', 'mellus', '']
+
+File: 2023.26.pdf
+First Sentence: Skal brukes for matpotet og industripotet (pommes frites, chips, potetmel, Eng: starch potatoes) 
+i potetlagre med tilstrekkelig isolasjon, luftsirkulasjon og temperaturkontroll.
+Crops: ['eng', '']
+Diseases paragraph: Brukes for å redusere spiring/groing (vekstregulator).
+Diseases: ['']
+
+File: 2013.1.17.pdf
+First Sentence: Til bekjempelse av ugress og mose på udyrkede arealer (grus/hellebelagte åpne 
+arealer, innkjørsler, gjengrodde arealer etc) og under/rundt frukttrær, busker, 
+hekker og lignende.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['', 'ugress']
+
+File: 2007.115.14.pdf
+First Sentence: Scala er tillatt brukt i eple, pære og jordbær på friland.
+Crops: ['eple', 'pære', 'jordbær', '']
+Diseases paragraph: Scala virker forebyggende mot gråskimmel og skurv. Mot skurv er det også en 
+kurativ virkning ved behandling inntil 72 timer etter infeksjon. 
+Pyrimetanil (virksomt stoff) har kryssresistens med andre anilinopyrimidiner, slik 
+som cypro-dinil. Man bør derfor veksle med preparater i andre middelgrupper. 
+For å begrense risikoen for utvikling av resistente soppstammer, bør Scala ikke 
+brukes mer enn én gang i vekstsesongen i jordbær og maksimalt tre ganger i eple 
+og pære. Scala virker best ved temperaturer på opp til 15° C. Lang opptørkingstid 
+kan gi fare for sviing. Ved slike forhold kan det også oppstå korkdannelse på 
+pærer.
+Diseases: ['gråskimmel', 'skurv', '']
+
+File: 2017.3.18.pdf
+First Sentence: Cleave® er tillatt brukt mot ugras i hvete, rug, havre, bygg, rughvete, grasfrøeng, beite og 
+eng, se tabell nedenfor:
+Kultur
+Behandling
+Dosering
+max mL/daa
+Sprøytetid
+(BBCH)
+Behandlingsfrist,
+(dager)
+Max.
+Crops: ['rug', 'rughvete', 'bygg', 'havre', 'eng', 'beite', 'grasfrøeng', 'hvete', '']
+Diseases paragraph: Cleave® har meget god virkning mot klengemaure, balderbrå-arter, vassarve (også 
+SU-resistent), gjetertaske, spillfrø av oljevekster, åkergråurt, tranehals, åkerreddik, 
+åkersennep, haremat, svartsøtvier, hønsegras og vindeslirekne. 
+På frøbladstadiet er virkningen også meget god mot åkerminneblom, åkersvineblom og 
+løvetann. Cleave® har også virkning mot veronika, åkerstemorsblom, og meldestokk, hvis 
+ugraset er på frøbladstadiet.
+I tillegg i etablert grasmark: Cleave® har meget god virkning på høymole. God effekt på 
+marikåpe og soleie-arter. En viss kortvarig effekt på løvetann og hundekjeks.
+Diseases: ['Gjetertaske', 'balderbrå', 'klengemaure', 'meldestokk', 'vassarve', 'vindeslirekne', 'åkergråurt', 'Høymole', 'løvetann', 'Åkersennep', 'åkersvineblom', '', 'ugras']
+
+File: 2017.35.22.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2019.26.pdf
+First Sentence: Til bekjempelse av ugress og mose på udyrkede arealer (grus/hellebelagte åpne 
+arealer, innkjørsler, gjengrodde arealer etc) og under/rundt frukttrær, busker, 
+hekker og lignende.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['', 'ugress']
+
+File: 2016.15.18.pdf
+First Sentence: Cycocel Extra kan brukes i  havre, vår- og høsthvete, rug og rughvete samt i frøeng av timotei, hundegras, rødsvingel, bladfaks, 
+engrapp og engkvein.
+Crops: ['rug', 'høsthvete', 'rughvete', 'frøeng', 'havre', '']
+Diseases paragraph: Not found
+Diseases: ['', 'timotei', 'hundegras']
+
+File: 2017.37.pdf
+First Sentence: Mot skadedyr i korn, oljevekster, erter til modning, konserves erter, bønner, poteter, blomkål, 
+brokkoli, hodekål og rosenkål.
+Crops: ['erter', 'bønner', 'hodekål', 'brokkoli', 'rosenkål', 'blomkål', 'korn', '']
+Diseases paragraph: Mot følgende innsektgrupper og arter: Gallmygg (bl.a. salgallmygg, gul hvetegallmygg, rød 
+hvetegallmygg, skulpegallmygg), bladlus (bl.a. kornbladlus, havrebladlus, kålbladlus, betebladlus, 
+ertebladlus, liten potetbladlus, potetbladlus, grønnflekket veksthusbladlus, ferskenbladlus), trips 
+(Thrips angusticeps, Kakothrips pisivorus, Limothrips denticornis), rapsglansbiller, snutebiller 
+(bl.a. skulpesnutebille, ertesnutebille).
+Diseases: ['bladlus', 'havrebladlus', 'kornbladlus', 'trips', '', 'skadedyr']
+
+File: 2013.21.17.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2014.46.17.pdf
+First Sentence: Bruksanvisningen må følges, slik 
+at man unngår risiko for 
+menneskers helse og miljøet.
+Crops: ['']
+Diseases paragraph: Meget god virkning på følgende arter i korgplantefamilien: burot, balderbrå, 
+dyllearter (ett- og ﬂerårige), ﬂikbrønsle, gullkrage, haremat, løvetann, ryllik, 
+tistelarter, åkergråurt, åkersvineblom m.ﬂ. God virkning på hestehov, 
+svartsøtvier, vindeslirekne og vikker. Kløver og andre belgplanter bekjempes.
+Diseases: ['balderbrå', 'vindeslirekne', 'åkergråurt', 'løvetann', 'gullkrage', 'åkersvineblom', 'burot', '']
+
+File: 2019.22.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2011.20.14.pdf
+First Sentence: Mot skadedyr i korn (vår- og høsthvete, bygg, havre, rug, og rughvete), eng og beite med og uten engbelg-
+vekster, gras- og kløverfrøeng, raps og rybs, potet, sukkermais, fôrmais, sukkerert, ert til konserves, ert til 
+modning, bønne til konsum, åkerbønne til modning, og grønnfôr, blomkål, brokkoli, rosenkål, hodekål, kålrot, 
+rødbete, fôrbete, nepe, gulrot, rotpersille, knollselleri, pasti­nakk, pepperrot, reddik, kepaløk, sjalottløk, hvitløk, 
+vårløk, purre, salat, spinat, asparges, stangselleri og agurk på friland.
+Crops: ['rug', 'høsthvete', 'rughvete', 'åkerbønne', 'asparges', 'salat', 'bønne', 'kepaløk', 'potet', 'kålrot', 'hodekål', 'brokkoli', 'gulrot', 'knollselleri', 'rødbete', 'agurk', 'bygg', 'havre', 'rosenkål', 'blomkål', 'rotpersille', 'nepe', 'sjalottløk', 'vårløk', 'eng', 'beite', 'korn', 'fôrmais', 'gras', 'sukkermais', 'hvitløk', 'purre', 'rybs', 'pepperrot', 'sukkerert', 'stangselleri', '']
+Diseases paragraph: Karate® 5 CS er et bredtvirkende pyretroid med meget god virkning mot insekter med sugende og bitende 
+munndeler, f.eks. bladlus, sikader, teger, trips, gallmygg, fluer, bladveps, jordfly, kålfly, nattfly, viklere, målere, 
+møll, pyralider og andre sommerfugllarver, glansbiller, jordlopper og andre bladbiller, veksthussnutebille og 
+andre snutebiller. Både larver og fullt utviklede insekter bekjempes.  
+Karate® 5 CS har også virkning mot midd, særlig spinnmidd.
+Diseases: ['bladlus', 'spinnmidd', 'insekter', 'trips', 'sommerfugllarver', 'midd', 'jordfly', '', 'raps', 'skadedyr']
+
+File: 2017.4.pdf
+First Sentence: Starane XL er et systemisk bladherbicid til bekjemping av 
+tofrøbladede ugras i vårkorn, høstkorn, grasgjenlegg til fôr eller frø, 
+med eller uten korn som dekkvekst, fangvekster av gras, eng og beite 
+uten belgvekster, gras til grøntanlegg og frøeng i følgende grasarter: 
+raigras, rødsvingel, engsvingel, krypkvein, hundegras, sølvbunke, 
+timotei, bladfaks og engrapp.
+Crops: ['frøeng', 'eng', 'beite', 'korn', 'Vårkorn', 'gras', '']
+Diseases paragraph: Tofrøbladede ugras: Balderbrå, gjetertaske, klengmaure, haremat, 
+høymole-arter, kornblom, svartsøtvier, vassarve, (inkl. ALS-resistent 
+type), åkerreddik, vindeslirekne, då-arter, engkarse, hønsegras, 
+storknebbarter, åkersennep, rosettkarse, smånesle, stornesle, 
+jordrøyk, tungras, åkerminneblom, rødtvetann, hundekjeks, løvetann, 
+marikåpe, mjølke-arter, soleie-arter, spillfrø av oljevekster, og 
+frøbladstadiet hos åkersvinblom og åkerdylle.
+Diseases: ['Gjetertaske', 'balderbrå', 'jordrøyk', 'kornblom', 'storknebbarter', 'vassarve', 'vindeslirekne', 'Høymole', 'løvetann', 'stornesle', 'Åkersennep', 'ugras', 'åkerdylle', '', 'grasarter', 'bladherbicid', 'timotei', 'engsvingel', 'hundegras', 'raigras']
+
+File: 2007.133.14.pdf
+First Sentence: Mot soppsykdommer i kirsebær, plomme, jordbær, bringebær, solbær, bjørnebær, ribs, 
+hodekål, rosenkål, blomkål, brokkoli, gulrot, rotpersille, pastinak, kålrot, nepe, kepaløk, 
+sjalottløk, vårløk, salat, ruccola, kruspersille, bladpersille, erter og bønner.
+Crops: ['bringebær', 'solbær', 'jordbær', 'salat', 'plomme', 'kepaløk', 'erter', 'bønner', 'kålrot', 'hodekål', 'brokkoli', 'gulrot', 'bjørnebær', 'rosenkål', 'blomkål', 'rotpersille', 'pastinak', 'nepe', 'sjalottløk', 'vårløk', 'ruccola', 'kruspersille', 'bladpersille', 'kirsebær', '']
+Diseases paragraph: Signum er spesielt virksomt overfor sykdommer forårsaket av ulike arter innenfor 
+soppslektene Alternaria, Sclerotinia, Botrytis og Monilinia. De to aktivstoffene har hver 
+sin virkemåte og virker på den måten som sikring mot utvikling av resistens.
+Strobiluriner og strobilurin-holdige produkter kan bare brukes to ganger per hold eller 
+sesong.
+Diseases: ['Alternaria', 'Botrytis', 'Monilinia', 'Sclerotinia', '', 'soppsykdommer']
+
+File: 2016.31.21.pdf
+First Sentence: AGROXONE
+® er tillatt brukt i eng, beite, gras i grøntanlegg, frukthager, korn, i gjenlegg av hvit- 
+alsike- eller rødkløver med eller uten korn som dekkvekst, og i korn med fangvekster.
+Crops: ['frukthager', 'eng', 'beite', 'korn', 'gras', 'rødkløver', '']
+Diseases paragraph: AGROXONE
+® har god virkning mot meldestokk, dåarter, åkergråurt og alle korsblomstra ugras og 
+noe virkning mot då-arter.
+Diseases: ['korsblomstra ugras', 'meldestokk', 'åkergråurt', 'ugras', '']
+
+File: 2024.16.pdf
+First Sentence: FytoSol skal brukes forebyggende før sykdomstegn oppstår gjennom å stimulere forsvarsmekanismen til planten før 
+en infeksjon.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2023.23.pdf
+First Sentence: og virkeområde: Sneglemiddel X Snegler - Nei takk er et regnbestandig, bruksklart 
+lokkeprodukt.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2023.22.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2013.17.17.pdf
+First Sentence: en
+Når:
+Trim Mosefjerner brukes første gangen tidlig vår, 
+når gresset begynner å vokse og frem til til veksten 
+avtar i september-oktober.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2017.26.pdf
+First Sentence: Primus XL er et systemisk bladherbicid til bekjempelse av tofrøbladet frøugras og flerårig rotugras i korn med eller 
+uten grasgjenlegg til frø eller fôr (ikke kløver), frøeng  og eng om våren.
+Crops: ['frøeng', 'eng', 'korn', '']
+Diseases paragraph: Primus XL har god virkning mot åkersennep, pengeurt, klengemaure, hønsegras, vindeslirekne, tungras, vassarve, 
+meldestokk, gjetartaske, kamilleblom, balderbrå, åkerreddik, kornblomst, åkerminneblom, løvetann, stivdylle og 
+raps. Primus XL har moderat virkning mot åkersvineblom og høymole.
+Diseases: ['balderbrå', 'klengemaure', 'meldestokk', 'raps', 'vassarve', 'vindeslirekne', 'Høymole', 'løvetann', 'Åkersennep', 'åkersvineblom', '', 'bladherbicid', 'rotugras', 'frøugras']
+
+File: 2012.30.24.pdf
+First Sentence: TITUS® er tillatt brukt mot frøugras, tofrøblada rotugras, kveke og annet 
+grasugras i potet (dyrket på friland) og i fôrmais.
+Crops: ['potet', 'fôrmais', '']
+Diseases paragraph: en sees først i 
+ugrasets vekstpunkt, deretter visner ugraset ned.
+Diseases: ['', 'kveke', 'rotugras', 'grasugras', 'frøugras']
+
+File: 2021.19.pdf
+First Sentence: Til bruk på gjennomtrengelige overfater på stier, tun, på bakken 
+rundt prydbusker og trær.
+Crops: ['']
+Diseases paragraph: Ugressmiddel mot tofrøblada ettårige ugress, tunrapp og mose. 
+Efekten er forbigående på etablerte ferårige ugress, men 
+nyspirte planter fra frø kan være mer følsomme.
+Diseases: ['tunrapp', 'ugress', '']
+
+File: 2007.126.22.pdf
+First Sentence: Proline EC 250 er tillatt brukt i bygg, havre, høst- og vårhvete, 
+rug, rughvete, raps og rybs.
+Crops: ['rug', 'rughvete', 'vårhvete', 'bygg', 'havre', 'høst- og vårhvete', 'rybs', '']
+Diseases paragraph: Proline EC 250 er et soppmiddel med systemisk virkning mot 
+meldugg, grå øyeﬂ ekk, byggbrunﬂ ekk, spragleﬂ ekk, havresep-
+toria, havrebrunﬂ ekk, stråknekker, hveteaksprikk (Stagonospo-
+ra nodorum, tidligere   Septoria nodorum), hvetebladprikk 
+(Septoria tritici), hvetebrunﬂ ekk (DTR), brunrust, gulrust, dverg-
+rust, kronrust, svartrust, aksfusariose samt storknolla råtesopp 
+i oljevekster. Proline EC 250 med det virksomme stoffet proti-
+okonazol tas raskt opp av kornplantenes blad og fordeles jevnt 
+utover i bladverket. Proline EC 250 brukes ved begynnende 
+sjukdoms-angrep, eller når varsling gir råd om å sprøyte. Virk-
+ningstiden for Proline er avhengig av behandlingstidspunkt, 
+dosering, utviklingsstadiet på kornet, tilveksthastighet samt 
+vekstforholdene.
+Behandlingen kan gjentas ved behov, men maksimalt kan Pro-
+line EC 250 benyttes 2 ganger per sesong.
+Diseases: ['storknolla råtesopp', 'rust', 'hvetebladprikk', 'hveteaksprikk', 'stråknekker', 'brunrust', 'gulrust', '', 'raps']
+
+File: 2017.18.pdf
+First Sentence: Primus 250 WG er tillatt brukt mot tofrøbladet ugras i korn med eller 
+uten grasgjenlegg til fôr eller frø.
+Crops: ['korn', '']
+Diseases paragraph: Primus 250 WG har meget god virkning mot:
+Klengemaure, vassarve (resistens mot ALS er registrert i Norge) 
+valmue, balderbrå-arter (resistens mot ALS er registrert i Norge), 
+gjetertaske, åkerreddik, åkersennep, kornblom, oljevekster, 
+vindeslirekne, haremat og svartsøtvier. 
+God virkning mot:
+Då-arter (resistens mot ALS er registrert i Norge), hønsegras, 
+åkersvineblom, minneblom (forglemmegei) og løvetann.
+Ugrasvirkning
+Diseases: ['Gjetertaske', 'balderbrå', 'kornblom', 'klengemaure', 'vassarve', 'vindeslirekne', 'løvetann', 'Åkersennep', 'åkersvineblom', '', 'ugras']
+
+File: 2024.8.pdf
+First Sentence: , intervall og antall behandlinger
+Behandlingstidspunkt: BBCH 99
+Lageret skal holdes lukket under behandling, og i 48 timer etter behandling.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2017.7.pdf
+First Sentence: Vårkorn med og uten gjenlegg til fôr: sprøyt på oppspirt ugras om våren/ forsommer, når 
+kornet har BBCH 13-45.
+Crops: ['Vårkorn', '']
+Diseases paragraph: Not found
+Diseases: ['', 'ugras']
+
+File: 2024.15.pdf
+First Sentence: Mot ugras før såing eller planting samt etter såing men før spiring i ulike kulturer.
+Crops: ['']
+Diseases paragraph: Roundup PowerMax er et ikke-selektivt ugrasmiddel til bruk mot ugras før fram-spiring 
+av en kultur, målrettet behandling i enkelte kulturer samt nedvisning/ brakking etter 
+høsting samt i andre områder hvor slik bruk er tillatt.
+Diseases: ['nedvisning', 'ugras', '']
+
+File: 2023.21.pdf
+First Sentence: Sekator OD er tillatt brukt mot ugras i høstbygg, vårbygg, høsthvete, vårhvete, rug og 
+rughvete.
+Crops: ['rug', 'høsthvete', 'høstbygg', 'rughvete', 'vårhvete', 'vårbygg', '']
+Diseases paragraph: Sekator OD er et bredtvirkende preparat med god virkning mot mange tofrøblada ugra-
+sarter. Under gode sprøytebetingelser og frem til ugraset har 4- 6 blader vil virkningen 
+i de fleste tilfeller være tilfredsstillende, men det anbefales å sprøyte tidlig for å få best 
+mulig resultat. Største dosering og tidlig behandling gir best virkning.
+Diseases: ['', 'ugras']
+
+File: 2024.14.pdf
+First Sentence: Riktig antall SmartFresh ProTabs er definert i henhold til volumet på lagerrommet 
+og avlingene som skal behandles som angitt i tabellen ovenfor.
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2022.1.25.pdf
+First Sentence: Virkemåte
+Balaya er et soppmiddel med forebyggende og kurativ virkning mot sjukdommer i hvete, 
+bygg, rughvete, rug og havre.
+Crops: ['rug', 'rughvete', 'bygg', 'havre', 'hvete', '']
+Diseases paragraph: Balaya har god effekt mot forskjellige kornsykdommer.
+Diseases: ['']
+
+File: 2016.3.22.pdf
+First Sentence: Not found
+Crops: ['']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2016.4.17.pdf
+First Sentence: Tomahawk® 200 EC er tillatt brukt i høst- og vårkorn, grasgjenlegg med eller uten korn 
+som dekkvekst, vårkorn med fangvekst av gras, fôrmais, eng, beite og gras i grøntanlegg.
+Crops: ['eng', 'beite', 'korn', 'fôrmais', 'Vårkorn', 'gras', '']
+Diseases paragraph: God effekt på følgende ugras, avhengig av dosering: då, haremat, klengemaure, 
+pengeurt, tungras, vassarve (også SU-resistens), vindelslirekne, åkerminneblom, 
+løvetann, stornesle, høymole, rosebusker, kløverarter, mjølkearter og ulike syrearter. Som 
+resistensbryter på SU-resistent ugras er den effektiv på vassarve og då. Mot geitrams, 
+bringebær, vikkearter, lauvkratt og snelle er ikke effekten tilfredsstillende med bruk av 
+Tomahawk® 200 EC alene.
+Diseases: ['klengemaure', 'vassarve', 'Høymole', 'løvetann', 'stornesle', 'Geitrams', 'vikkearter', 'ugras', '']
+
+File: 2010.26.14.pdf
+First Sentence: Previcur Energy er tillatt brukt mot salatbladskim-
+mel i salat i veksthus og på friland, agurkbladskim-
+mel i frilandsagurk, kålbladskimmel i kålvekster 
+under oppal, mot Pythium spp.
+Crops: ['salat', 'frilandsagurk', '']
+Diseases paragraph: Previcur Energy virker mot salatbladskimmel 
+(Bremia lactucae), agurkbladskimmel (Pseudope-
+ronspora cubensis), kålbladskimmel (Hyalopero-
+nospora parasitica) samt mot Pythium spp. (alge-
+sopper) som eksempelvis gir rotbrann og rotråte. 
+Det kan forventes sideeffekt mot en rekke andre 
+eggsporesopper (Oomyceter) herunder arter av 
+Phytophthora.
+For å sikre god kontroll med sykdommer forårsaket 
+av eggsporesopper skal Previcur Energy brukes 
+forebyggende.
+Diseases: ['Bremia', 'Phytophthora', 'Pythium', 'salatbladskimmel', 'agurkbladskimmel', '']
+
+File: 2019.20.pdf
+First Sentence: DMA 600 kan brukes til vårbehandling i høst- og vårkorn.
+Crops: ['Vårkorn', '']
+Diseases paragraph: Not found
+Diseases: ['']
+
+File: 2017.19.pdf
+First Sentence: Trinol Snegledreper er et agn/lokkegranulat for bekjem-
+pelse av snegler i grønnsaker, bær og prydplanter utendørs så vel som i 
+veksthus og i bed.
+Crops: ['prydplanter', 'grønnsaker', 'bær', '']
+Diseases paragraph: Få timer etter at sneglene har spist Trinol Snegledreper, 
+mister de matlysten, og derved forhindres videre beskadigelse av de 
+planter man vil beskytte.
+Diseases: ['']
+
+File: 2018.12.20.pdf
+First Sentence: I høstraps og vårraps mot storknollet råtesopp (Sclerotinia sclerotiorum), stor skulpesopp 
+(Altemaria spp).
+Crops: ['']
+Diseases paragraph: Pictor
+® Active har i hovedsak virkning mot sykdommene storknollet råtesopp (Sclerotinia 
+sclerotiorum) og stor skulpesopp (Alternaria spp.)
+Sykdom
+Forventet kontroll ved 100 ml/daa
+Storknollet råtesopp (Sclerotinia sclerotiorum)
+Full kontroll
+Stor skulpesopp (Alternaria spp.)
+Moderat kontroll
+Full kontroll, > 80 % kontroll
+Moderat kontroll, 60 – 80 % kontroll
+I tillegg til virkningen på sykdommer er stoffene pyraclostrobin og boscalid kjent for å gi 
+grønnskjær, ”greening”, på avlingen.
+Diseases: ['Alternaria', 'Sclerotinia', 'storknollet råtesopp', 'stor skulpesopp', '']
+
+File: 2015.47.22.pdf
+First Sentence: Aviator Xpro EC 225 er tillatt brukt i bygg, havre, høst- og vår-
+hvete, rug og rughvete.
+Crops: ['rug', 'rughvete', 'bygg', 'havre', 'hvete', '']
+Diseases paragraph: Aviator Xpro EC 225 er et soppmiddel med systemisk virk-
+ning mot mjøldogg, grå øyeﬂ ekk, byggbrunﬂ ekk, spragleﬂ ekk, 
+havreseptoria, havrebrunﬂ ekk, hveteaksprikk  (Stagonospora 
+nodorum), hvetebladprikk (Septoria tritici), hvetebrunﬂ ekk 
+(DTR), brunrust, dvergrust, gulrust og Fusarium- arter som går 
+i akset på korn.
+Diseases: ['hvetebladprikk', 'hveteaksprikk', 'mjøldogg', 'havreseptoria', 'brunrust', 'dvergrust', 'gulrust', '']
+

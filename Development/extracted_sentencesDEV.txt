@@ -1,0 +1,14 @@
+File: 2018.2.pdf
+First Sentence: Brukes på epler og pærer mot skurv (Venturia inaequalis og Venturia pirina).
+Crops: ['epler', 'pærer']
+Diseases paragraph: småte:
+Delan Pro er en kombinasjon av to virksomme stoffer, ditianon og kaliumfosfonat.
+Diseases: ['skurv']
+
+File: 2023.19.pdf
+First Sentence: CONSERVE er tillatt brukt i prydplanter, tomat, agurk, krydderurter og jordbær i veksthus.
+Crops: ['prydplanter', 'jordbær', 'tomat', 'agurk']
+Diseases paragraph: CONSERVE er et insektmiddel til bekjempelse av trips (Franklinella occidentalis, Thrips tabaci 
+m.fl.) og minerfluer (Liriomyza spp.) på planter i veksthus.
+Diseases: ['trips']
+

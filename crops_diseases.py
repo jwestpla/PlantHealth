@@ -1,0 +1,42 @@
+crops = [
+    'prydplanter', 'eple', 'pære', 'stikkelsbær', 'bringebær', 'rips', 'solbær',
+    'rug', 'høsthvete', 'høstbygg', 'rughvete', 'vårhvete', 'vårbygg', 'åkerbønne',
+    'jordbær', 'søtkirsebær', 'tomat', 'hageblåbær', 'asparges', 'salat', 'bønne',
+    'aubergine', 'plomme', 'surkirsebær', 'blåbær', 'frøeng', 'kepaløk', 'oljeraps',
+    'oljerybs', 'potet', 'erter', 'bønner', 'fôrmargkål', 'fôrraps', 'lin', 'kålrot',
+    'hodekål', 'brokkoli', 'gulrot', 'pastinakk', 'knollselleri', 'rødbete',
+    'rødsvingelfrøeng', 'agurk', 'paprika', 'spelt', 'bygg', 'havre', 'bjørnebær',
+    'rosenkål', 'blomkål', 'rotpersille', 'pastinak', 'nepe', 'sjalottløk', 'vårløk',
+    'ruccola', 'kruspersille', 'bladpersille', 'frukthager', 'eng', 'beite', 'korn', "fôrmais", "grasfrøeng",
+    "setteløk", "blomsterløk", "hvete", "sommerblomster", "Vårkorn", "rødbeter", "søt- og surkirsebær", "høst- og vårhvete",
+    "høst- og vårbygg", "gras", "rødkløver", "bladkål", "knutekål", "fôrkål", "sukkermais", "løk", "hvitløk", "purre",
+    "kløvergjenlegg", "høstrug", "sukkerbeter", "fôrbeter", "rybs", "frukt", "grønnsaker", "settepotet", "epler", "pærer", "vindruer",
+    "krydderurter", "karve", "kirsebær", "graseng", "blomsterfrøeng", "dill", "bær", "purreløk", "forbete", "fennikel", "babyleaf", "jordskokk",
+    "pepperrot", "beter", "kinakål", "squash", "sukkerert", "persille", "koriander", "haskap", "aronia", "tranebær", "hyllebær", "gran", "furu",
+    "urter", "spiselige blomster", "sennepsfrø", "linfrø", "valmuefrø", "reddikfrø", "frilandsagurk", "stangselleri", "persillerot", "drue", ""
+    ""
+]
+
+diseases = [
+    "Alternaria", "Bremia", "Botrytis", "Gjetertaske", "Grønn eplebladlus", "Monilinia", "Phytophthora", "Plasmopara", 
+    "Pseudoperonospora", "Pythium", "Sclerotinia", "balderbrå", "bærbuskbladfall", "bærbuskbladﬂekksopp", 
+    "bladflekksjukdommer", "bladlus", "bladmidd", "buksbomkreft", "epleskurv", "floghavre", "frukttrekreft", 
+    "furuas knopp- og greintørke", "grå monilia", "gråskimmel", "grasarter", "grasbladlus", "greinbrann", "greindød", 
+    "gul monilia", "haglskuddsyke", "havrebladlus", "honningsopp", "hønsehirse", "jordrøyk", "kornbladlus", "kornblom", 
+    "korsblomstra ugras", "kveke", "klengemaure", "knereverumpe", "kvassdå/då-arter", "meldestokk", "monilia", 
+    "nålefallssopper", "pærebladlus", "plommepung", "raps", "rothalsråte", "rotstokkråte", "rød eplebladlus", 
+    "rød marg", "rød rotråte", "rødtvetann/tvetannarter", "rustsopper", "salatbladskimmel", "skuddsyke", "spinnmidd", 
+    "spillkorn", "stengelsykdommer", "storknebbarter", "storknolla råtesopp", "tunrapp", "vassarve", "vindeslirekne", 
+    "åkergråurt", "bladherbicid", "Høymole", "løvetann", "soleier", "stornesle", "Geitrams", "sneller", "vikkearter", 
+    "bjørk", "osp", "or", "selje", "rust", "grå øyeflekk", "byggbrunflekk", "spragleflekk", "hvetebladprikk", 
+    "hveteaksprikk", "Bakkeveronika", "Orientveronika", "Åkersennep", "Åkervortemelk", "microdochium flekk", 
+    "rosa snømugg", "brunflekk", "antraknose", "faks-arter", "åkerkvein", "rugfaks", "engsyre", "småsyre", "soppsykdommer",
+    "tørråte", "skadedyr", "skurv", "nedvisning", "ugras", "insekter", "vekstregulering", "trips", "minerfluer", "sommerfugllarver",
+    "kålflue", "kålmøll", "purremøll", "løkflue", "åkertistel", "åkerdylle", "rotugras", "bladskimmel", "grasugras", "markrapp",
+    "hirser", "utløpere", "mellus", "frøugras", "legde", "stråknekk", "frukttremidd", "veksthusspinnmidd", "bitterråte", "heggeflekk",
+    "soppsjukdommer", "stråknekker", "mjøldogg", "grå øyeflekk", "byggbrunflekk", "spragleflekk", "havreseptoria", "havrebrunflekk", "hveteblad-prikk",
+    "brunrust", "dvergrust", "gulrust", "snømugg", "trådkølle", "kløverskålsopp", "kløverbrann", "kløverrust", "kløvergnager", "kløversnutebille",
+    "skadeinsekter", "midd", "ugress", "fløyelsflekk", "løkbladskimmel", "papirflekk", "jordbærvikler", "jordfly", "gullkrage", "åkersvineblom",
+    "tistler", "dikesvineblom", "burot", "håret engtege", "svart rotråte", "storknollet råtesopp", "stor skulpesopp", "kålrotsopp", "løkbladskimmel",
+    "knerevehale", "timotei", "engsvingel", "strandsvingel", "hundegras", "hybridraigras", "raigras", "agurkbladskimmel", "insektlarver",
+    "spinatskimmel", ""]
