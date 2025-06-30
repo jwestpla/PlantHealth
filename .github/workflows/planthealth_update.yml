@@ -31,9 +31,7 @@ jobs:
           server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASS }}
-          local-dir: ./  # adjust if the JSON is in a subfolder
+          local-dir: ./  # still the root
           server-dir: /public_html/
-          exclude: |
-            **/.git*
-            **/.github*
-            **/Development*
+          exclude: "**"
+          include: godkjente_plantevernmidler_data.json
