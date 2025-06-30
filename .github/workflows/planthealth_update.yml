@@ -25,13 +25,16 @@ jobs:
       - name: Run PlantHealth pipeline
         run: python main.py
 
+      - name: Prepare upload directory
+        run: |
+          mkdir upload
+          cp godkjente_plantevernmidler_data.json upload/
+
       - name: Upload processed file to FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASS }}
-          local-dir: ./  # still the root
+          local-dir: ./upload
           server-dir: /public_html/
-          exclude: "**"
-          include: godkjente_plantevernmidler_data.json
